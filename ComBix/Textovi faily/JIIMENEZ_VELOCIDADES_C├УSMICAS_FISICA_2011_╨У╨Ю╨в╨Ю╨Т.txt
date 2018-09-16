@@ -1,0 +1,353 @@
+﻿VELOCIDADES CУSMICAS
+Heber Gabriel Pico Jimйnez MD. Universidad de Cartagena. 
+ Resumen
+En este trabajo se encuentra una ecuaciуn matemбtica donde con ella se esclarece y se confirma que todos los movimientos en la superficie de un cuerpo masivo o planeta como la Tierra, incluso movimientos de objetos a velocidades tan simples y comunes como la velocidad de un automуvil, la velocidad de una pelota de beisbol, la de un aviуn como la de un fotуn, pueden ser expresadas en el universo como velocidades cуsmicas, ya que la descripciуn de este trabajo alcanza relacionar al cuadrado de la velocidad de los cuerpos, con el cuadrado de la velocidad orbital que tiene el punto preciso por donde justamente se mueve dicho objeto dentro del campo gravitatorio. Es tan certera dicha relaciуn que sirve para calcular de paso con ella tanto a la primera velocidad cуsmica del planeta como su segunda velocidad cуsmica o de escape.
+Palabras claves: Velocidad orbital, Agujero Negro, Primera velocidad cуsmica, Velocidad de escape.
+
+
+1. Introducciуn
+En esta corta introducciуn vamos a recordar al cuadrivector y cuadrivelocidad del trabajo “Sobre gravedad cuбntica en la relatividad general.
+
+Donde dt es el diferencial del tiempo, G es la contante gravitacional universal, M es la masa del cuerpo mбsico, r es la distancia radial hasta el centro del cuerpo mбsico, i es el nъmero imaginario, dc es la diferencial del espacio de la velocidad de la luz y c es la velocidad de la luz en el vacнo.
+En esta anterior ecuaciуn vamos a continuar simplificando y nos quedarнa de la siguiente manera:
+
+Donde G es la contante gravitacional universal, M es la masa del cuerpo mбsico, r es la distancia radial hasta el centro del cuerpo mбsico, i es el nъmero imaginario, dc es la diferencial del espacio de la velocidad de la luz, dt es el diferencial del tiempo y c es la velocidad de la luz en el vacнo.
+
+Donde i es el nъmero imaginario, G es la contante gravitacional universal, M es la masa del cuerpo mбsico, r es la distancia radial hasta el centro del cuerpo mбsico y c es la velocidad de la luz en el vacнo.
+Nos queda entonces el cuadrivector del espacio-tiempo de la relatividad general queda de la siguiente manera:
+
+Donde G es la contante gravitacional universal, M es la masa del cuerpo mбsico, r es la distancia radial hasta el centro del cuerpo mбsico y c es la velocidad de la luz en el vacнo.
+
+Donde G es la contante gravitacional universal, M es la masa del cuerpo mбsico, r es la distancia radial hasta el centro del cuerpo mбsico y c es la velocidad de la luz en el vacнo.
+
+Donde vorb es la velocidad orbital, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico y r es la distancia radial del punto del campo al centro del cuerpo mбsico.
+En esta relaciуn anterior nъmero cinco (5) se introduce la masa en reposo como un escalar para encontrar a la cantidad de movimiento de la relatividad general:
+
+Donde m es la masa en reposo de un objeto cualquiera, G es la contante gravitacional universal, M es la masa del cuerpo mбsico, r es la distancia radial hasta el centro del cuerpo mбsico y c es la velocidad de la luz en el vacнo.
+
+Donde m es la masa en reposo de un objeto cualquiera, G es la contante gravitacional universal, M es la masa del cuerpo mбsico, r es la distancia radial hasta el centro del cuerpo mбsico y c es la velocidad de la luz en el vacнo.
+
+Donde vorb es la velocidad orbital, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico y r es la distancia radial del punto del campo al centro del cuerpo mбsico
+De esta anterior relaciуn nъmero ocho (8) tomamos el ъltimo componente del extremo derecho del miembro derecho y lo desarrollamos en la relatividad especial:
+
+Donde m es la masa en reposo de un objeto cualquiera, G es la contante gravitacional universal, M es la masa del cuerpo mбsico, r es la distancia radial hasta el centro del cuerpo mбsico, vorb es la velocidad orbital, ig es un nъmero imaginario de la relatividad general, ie es el nъmero imaginario de la relatividad especial, v es la velocidad de la partнcula y c es la velocidad de la luz en el vacнo.
+     
+        
+Donde ig es el nъmero imaginario de la relatividad general, G es la contante gravitacional universal, M es la masa del cuerpo mбsico, ie es el nъmero imaginario de la relatividad especial, v es la velocidad de la partнcula y c es la velocidad de la luz en el vacнo.
+Remplazando la anterior ecuaciуn nъmero nueve (9) en la tambiйn anterior relaciуn nъmero ocho (8) nos resulta la siguiente gran relaciуn global de gravedad cuбntica:
+
+Donde m es la masa en reposo de un objeto cualquiera, ig es nъmero imaginario de la relatividad general, ie es el nъmero imaginario de la relatividad especial, vorb es la velocidad orbital, v es la velocidad de la partнcula y c es la velocidad de la luz en el vacнo.
+2. Desarrollo del Tema
+Partiendo de la ecuaciуn desarrollada de la energнa cinйtica en el anterior trabajo “Sobre gravedad cuбntica”:
+
+DondeEc es la energнa cinйtica, m es la masa en reposo de la partнcula,v es la velocidad de la partнcula, vorb es la velocidad orbital, iges nъmero imaginario de la relatividad general, ie es el nъmero imaginario de la relatividad especial y c es la reconocida velocidad de la luz en el vacнo.
+
+Donde Ec es la energнa cinйtica, m es la masa en reposo de la partнcula, v es la velocidad de la partнcula, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico y c es la reconocida velocidad de la luz en el vacнo.
+A esta anterior relaciуn nъmero catorce (14) de la energнa cinйtica, le vamos a simplificar la velocidad de la luz y nos quedarнa de la siguiente manera:
+ 
+
+Donde Ec es la energнa cinйtica, m es la masa en reposo de la partнcula, v es la velocidad de la partнcula, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico y c es la reconocida velocidad de la luz en el vacнo.
+
+Donde Ec es la energнa cinйtica, m es la masa en reposo de la partнcula, v es la velocidad de la partнcula, vorb es la velocidad orbital, G es la constante de gravitaciуn universal, Mes la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico y c es la reconocida velocidad de la luz en el vacнo. 
+ 
+A esa velocidad (v) de cualquier objeto presente en la anterior ecuaciуn de la energнa cinйtica debemos buscarle una relaciуn con las velocidades orbitales (vorb) de un campo gravitatorio. Comenzamos con Kepler:
+
+Donde r es la distancia radial hasta el centro del cuerpo mбsico central, T es el periodo yK es la constante de Kepler.
+
+Donde ? es una constante geomйtrica, r es la distancia radial hasta el centro del cuerpo mбsico central, T es el periodo y K es la constante de Kepler.
+
+Donde vorb es la velocidad orbital, r es la distancia radial hasta el centro del cuerpo mбsico central, M es la masa del cuerpo mбsico central, ? es una constante geomйtrica,K es la constante de Kepler y G es la constante de gravitaciуn universal.
+
+Donde vorb es la velocidad orbital, r es la distancia radial hasta el centro del cuerpo mбsico central, M es la masa del cuerpo mбsico central y G es la constante de gravitaciуn universal.
+
+Donde vorb es la velocidad orbital, r es la distancia radial hasta el centro del cuerpo mбsico central, G es la constante de gravitaciуn universal y M es la masa del cuerpo mбsico central.
+
+Donde vorb es la velocidad orbital, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico central y r es la distancia radial hasta el centro del cuerpo mбsico central.
+
+Donde vorb es la velocidad orbital, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico central y r es la distancia radial hasta el centro del cuerpo mбsico central.
+Para que no varнe la igualdad en esta anterior ecuaciуn nъmero veinte y dos (22) a ambos miembros, los multiplicamos por un factor x positivo adimensional de la siguiente manera:
+
+Donde x es el factor positivo adimensional, vorb es la velocidad orbital, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico central y r es la distancia radial hasta el centro del cuerpo mбsico central.
+Le sacamos raнz cuadrada a ambos miembros de la igualdad anterior nъmero veinte y tres (23) descrita:
+
+Donde x es el factor positivo adimensional, vorb es la velocidad orbital, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico central y r es la distancia radial hasta el centro del cuerpo mбsico central.
+
+Donde x es el factor positivo adimensional, vorb es la velocidad orbital, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico central y r es la distancia radial hasta el centro del cuerpo mбsico central.
+
+Donde x es el factor positivo adimensional, vorb es la velocidad orbital, v es la velocidad de la partнcula, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico central y r es la distancia radial hasta el centro del cuerpo mбsico central.
+
+Donde v es la velocidad de la partнcula, x es el factor positivo adimensional, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico central y r es la distancia radial hasta el centro del cuerpo mбsico central.
+
+Donde v es la velocidad de la partнcula, x es el factor positivo adimensional, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico central y r es la distancia radial hasta el centro del cuerpo mбsico central.
+       
+Donde x es un factor o нndice adimensional que resulta de la relaciуn entre el cuadrado de la velocidad de la partнcula con el cuadrado de la velocidad orbital, v es la velocidad de la partнcula, vorb es la velocidad orbital en el punto donde se encuentra la partнcula en movimiento dentro del campo gravitatorio, G es la constante gravitacional, M es la masa del cuerpo mбsico y r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico central. 
+
+Donde x es un factor o нndice adimensional que resulta de la relaciуn entre el cuadrado de la velocidad de la partнcula con el cuadrado de la velocidad orbital, v es la velocidad de la partнcula, r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico, G es la constante de gravitaciуn universal y M es la masa del cuerpo mбsico o planeta. 
+
+Donde v es la velocidad de la partнcula, x es un factor o нndice adimensional que resulta de la relaciуn entre el cuadrado de la velocidad de la partнcula con el cuadrado de la velocidad orbital, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta y r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico.
+Si la anterior relaciуn lineal de la velocidad (v) nъmero treinta y dos (32) la reemplazamos en la tambiйn anterior relaciуn de la energнa cinйtica nъmero catorce (14), nos queda la siguiente ecuaciуn nъmero treinta y tres (33):
+
+Donde Ec es la energнa cinйtica, m es la masa en reposo de la partнcula, x es un factor o нndice adimensional que determina la relaciуn entre el cuadrado de la velocidad de la partнcula con el cuadrado de la velocidad orbital, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula hasta el centro del planeta o cuerpo mбsico y c es la reconocida velocidad de la luz en el vacнo. 
+
+Donde Ec es la energнa cinйtica, m es la masa en reposo de la partнcula, x es un factor o нndice adimensional que determina la relaciуn entre el cuadrado de la velocidad de la partнcula con el cuadrado de la velocidad orbital, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula hasta el centro del planeta o cuerpo mбsico y c es la reconocida velocidad de la luz en el vacнo. 
+
+Donde Ec es la energнa cinйtica, m es la masa en reposo de la partнcula, x es un factor o нndice adimensional que determina la relaciуn entre el cuadrado de la velocidad de la partнcula con el cuadrado de la velocidad orbital, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula hasta el centro del planeta o cuerpo mбsico y c es la reconocida velocidad de la luz en el vacнo.
+En esta anterior ecuaciуn nъmero treinta y cinco (35), debido a las bajas derivaciones sobre el tiempo ocasionado por las contracciones a esas minъsculas velocidades orbitales y de los objetos, podemos despreciar los efectos en dichas dilataciones del tiempo por dichas contracciones allн presentes en el denominador de la relaciуn y nos quedarнa entonces la energнa cinйtica de la siguiente manera:
+ 
+
+Donde Ec es la energнa cinйtica, m es la masa en reposo de la partнcula, x es un factor o нndice adimensional que determina la relaciуn entre el cuadrado de la velocidad de la partнcula con el cuadrado de la velocidad orbital, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta y r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico.
+Se puede observar que la energнa cinйtica de una partнcula que se mueva dentro de un campo gravitatorio, depende tanto de la posiciуn que tenga el objeto en el interior del campo gravitacional, como de los valores que pueda tomar x. Si por ejemplo x tuviera el valor de cero, entonces la velocidad de cualquier partнcula serнa cero a cualquier altura, igualmente le sucederнa a la energнa cinйtica total de dicha partнcula. Pero notemos que cuando x toma el valor de la unidad (1), entonces la velocidad de dicha partнcula es igual a su primera velocidad cуsmica y su energнa cinйtica es la siguiente:
+                 
+Donde x es un factor o нndice adimensional que determina la relaciуn entre el cuadrado de la velocidad de la partнcula y el cuadrado de la velocidad orbital, v es la velocidad de la partнcula, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planetay r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico y c es la velocidad de la luz en el vacнo. 
+ 
+
+Donde Ec es la energнa cinйtica, m es la masa en reposo de la partнcula, x es un factor o нndice adimensional que determina la relaciуn entre el cuadrado de la velocidad de la partнcula y el cuadrado de la velocidad orbital, G es la constante de gravitaciуn universal,M es la masa del cuerpo mбsico o planeta y r es la distancia radial desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico.
+Si x sigue aumentando su cuantнa y llega hasta el valor de otro nъmero entero como el dos (2) para el valor de x, aparece la configuraciуn de la segunda velocidad cуsmica o velocidad de escape y vemos que la relaciуn treinta y dos (32) quede de la siguiente manera:
+
+Donde v es la velocidad de la partнcula, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta, x es un factor o нndice adimensional que determina la relaciуn entre el cuadrado de la velocidad de la partнcula y el cuadrado de la velocidad orbital y r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico. 
+
+Donde v es la velocidad de la partнcula, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta y r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico. 
+
+Donde v es la velocidad de la partнcula, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta y r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico.
+Como vemos x puede tomar valores que van desde cero hasta valores configurados para cumplir la proporciуn de la segunda velocidad cуsmica o velocidad de escape cuando x vale dos (2) o seguir aumentado hasta que la velocidad (v) sea igual a la velocidad de la luz en el vacнo:
+
+Donde v es la velocidad de la partнcula, x es un factor o нndice adimensional que determina la relaciуn entre el cuadrado de la velocidad de la partнcula y el cuadrado de la velocidad orbital, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico y c es la velocidad de la luz en el vacнo.
+Se puede observar que en un agujero negro, como la velocidad para escape de la singularidad es igual a la velocidad de la luz, entonces a la primera velocidad cуsmica de un agujero negro por efectos de la dilataciуn del tiempo por velocidad, se convierte en la velocidad de escape:
+
+Donde v es la velocidad de la partнcula, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico y ces la velocidad de la luz en el vacнo. 
+
+Donde v es la velocidad de la partнcula y c es la velocidad de la luz en el vacнo. 
+
+Donde G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico y c es la velocidad de la luz en el vacнo.
+3. Conclusiones
+a)- LA PRIMERA GRAN CONCLUSIУN es la primera velocidad cуsmica de un agujero negro:
+
+Donde vpvcn es la primera velocidad cуsmica de un agujero negro, c es la velocidad de la luz en el vacнo.
+a)- LA SEGUNDA GRAN CONCLUSIУN es la relaciуn que define a la velocidad de cualquier objeto con respecto a la velocidad orbital dentro de un campo gravitatorio: 
+
+Donde v es la velocidad de la partнcula, xes un factor o нndice adimensional que determina la relaciуn entre el cuadrado de la velocidad de la partнcula y el cuadrado de la velocidad orbital, G es la constante de gravitaciуn universal, Mes la masa del cuerpo mбsico o planetay r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico.
+Vemos que aunque un objeto se eleve en altura sobre la superficie de un cuerpo mбsico a una velocidad constante, x continuarб incrementбndose al compas de dicha altura en el radio de la уrbita.
+b)- OTRA TERCERA GRAN CONCLUSIУN es la expresiуn que define a x.
+
+Donde x es un factor o нndice adimensional que resulta de la relaciуn entre el cuadrado de la velocidad de la partнcula con el cuadrado de la velocidad orbital, v es la velocidad de la partнcula, r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico, G es la constante de gravitaciуn universal y M es la masa del cuerpo mбsico o planeta.
+
+Donde v es la velocidad de la partнcula, r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico, x es un factor o нndice adimensional que resulta de la relaciуn entre el cuadrado de la velocidad de la partнcula con el cuadrado de la velocidad orbital, G es la constante de gravitaciуn universal y M es la masa del cuerpo mбsico o planeta.
+Vemos que aunque la velocidad continъe constante, sin embargo x seguirб aumentando indefectiblemente al compas del decremento de la velocidad orbital.
+c)- OTRA CUARTA GRAN CONCLUSIУN es la relaciуn que define a la energнa cinйtica como vector:
+
+Donde Ec es la energнa cinйtica en la gravedad cuбntica, m es la masa en reposo de la partнcula, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula hasta el centro del planeta o cuerpo mбsico, x es un factor o нndice adimensional que determina la relaciуn entre el cuadrado de la velocidad de la partнcula con el cuadrado de la velocidad orbital y c es la reconocida velocidad de la luz en el vacнo. 
+
+Donde Ec es la energнa cinйtica en la gravedad cuбntica, m es la masa en reposo de la partнcula, x es un factor o нndice adimensional que determina la relaciуn entre el cuadrado de la velocidad de la partнcula con el cuadrado de la velocidad orbital, vorb es la velocidad orbital de la partнcula, G es la constante de gravitaciуn universal, M es la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula hasta el centro del planeta o cuerpo mбsico y c es la reconocida velocidad de la luz en el vacнo.
+d)- OTRA QUINTA GRAN CONCLUSIУN serнa la cantidad de movimiento en la Gravedad cuбntica:
+
+Donde p es la cantidad de movimiento en la gravedad cuбntica, morb es la denominada por nosotros como masa orbital y c es la velocidad de la luz en el vacнo.
+
+Donde morb es la denominada por nosotros como masa orbital, m es la masa en reposo del objeto, G es la constante de gravitaciуn universal, Mes la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico y c es la velocidad de la luz en el vacнo.
+
+Donde v es la velocidad de la partнcula, xes un factor o нndice adimensional que determina la relaciуn entre el cuadrado de la velocidad de la partнcula y el cuadrado de la velocidad orbital, G es la constante de gravitaciуn universal, Mes la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico y c es la velocidad de la luz en el vacнo.
+
+Donde p es la cantidad de movimiento en la gravedad cuбntica, m es la masa en reposo del objeto, G es la constante de gravitaciуn universal, Mes la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico, xes un factor o нndice adimensional que determina la relaciуn entre el cuadrado de la velocidad de la partнcula y el cuadrado de la velocidad orbital y c es la velocidad de la luz en el vacнo.
+
+Donde Ec es la energнa cinйtica, p es la cantidad de movimiento en la gravedad cuбntica y c es la velocidad de la luz en el vacнo 
+
+Donde Ec es la energнa cinйtica, p es la cantidad de movimiento en la gravedad cuбntica,m es la masa en reposo del objeto, G es la constante de gravitaciуn universal, Mes la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico,xes un factor o нndice adimensional que determina la relaciуn entre el cuadrado de la velocidad de la partнcula y el cuadrado de la velocidad orbital y c es la velocidad de la luz en el vacнo.
+e)- LA SEXTA y ULTIMA GRAN CONCLUSIУN serнa la cantidad de movimiento pero solo en la relatividad general:
+
+Donde P es la cantidad de movimiento en la relatividad general, m es la masa en reposo de la partнcula, G es la constante de gravitaciуn universal, Mes la masa del cuerpo mбsico o planeta, r es la distancia radial que hay desde el punto donde se encuentra la partнcula en movimiento hasta el centro del planeta o cuerpo mбsico y c es la velocidad de la luz en el vacнo.
+
+Donde P es la cantidad de movimiento en la relatividad general, m es la masa en reposo,vorb es la velocidad orbital y c es la velocidad de la luz en el vacнo.
+
+Donde vorb es la velocidad orbital, G es la constante de gravitaciуn universal, M es la masa del planeta o cuerpo mбsico central y r es la distancia radial hasta el centro del cuerpo mбsico.
+Heber Gabriel Pico Jimйnez MD,
+Medico Cirujano
+heberpico@hotmail.com
+Calle 13 No.10-40 Ceretй, Cуrdoba, Colombia
+Resumen
+En este trabajo se identifica la naturaleza fнsica de los agujeros negros a travйs de la “LUED”. Se encuentra que en la relatividad especial el cuadrado de la velocidad de escape, es igual a la suma del cuadrado de la velocidad de la fuente de ondas electromagnйticas en el Doppler transversal relativista, mбs el cuadrado de la velocidad del observador. Tambiйn se puede decir segъn este artнculo que el cuadrado de la velocidad de escape en la relatividad general, es igual a la suma del equivalente del cuadrado de la velocidad de la fuente de ondas gravitatorias que es precisamente igual a la aceleraciуn gravitacional de la fuente masiva por el radio de la misma, mбs el producto de la respectiva aceleraciуn gravitacional del observador con respecto a la fuente de ondas por su radio propio. Es decir, este trabajo encuentra a travйs de la “LUED” que la velocidad de escape y los agujeros negros son reales conceptos gravitacionales, que le pertenecen enteramente al estudio del Doppler transversal relativista de ondas gravitatorias y por esto, es que la velocidad de escape de un observador es independiente de la masa que pueda tener dicho observador como proyectil.  
+Palabras claves: Horizonte de Sucesos, Agujeros Negros, Masa Imaginaria, Doppler Transversal, Tiempo Propio, Masa Aparente, Gravedad Cuбntica, Doppler Relativista, Dilataciуn gravitacional del Tiempo.
+Abstract
+This paper identifies the physical nature of black holes of the "LUED". It is that in special relativity exhaust velocity squared is equal to the sum of the square of the speed of the source of electromagnetic waves in the transversal relativistic Doppler over the square of the speed of the observer. According to this article that the square of general relativity, escape velocity is equal to the sum of the equivalent of the square of the speed of the source of gravitational waves that equals precisely gravitational acceleration massive supply radio, plus product of respective gravitational acceleration of the observer with the source of waves by his own radio can also be said. I.e., this work is through the "LUED" escape velocity, and black holes are real gravitational concepts belonging entirely to the study of the transversal relativistic Doppler gravity wave and why, is an observer escape velocity is independent of the mass that could have the observer as a projectile.
+Key Words: Horizon of events, black holes, mass imaginary, Transversal Doppler, own time, apparent mass, quantum gravity, relativistic Doppler, gravitational time dilation.
+1. INTRODUCCIУN
+Queremos iniciar esta introducciуn definiendo que L.U.E.D. son las iniciales de la “Ley Universal del Efecto Doppler”.
+En esta corta introducciуn vamos a hacer una referencia rбpida de lo que actualmente estб aceptado en la comunidad cientнfica, para calcular la velocidad de escape en los cuerpos masivos.
+La velocidad de escape es la velocidad mнnima con la que debe lanzarse el cuerpo para que escape de la atracciуn gravitatoria de la Tierra o de cualquier otro astro. Esto significa que el cuerpo o proyectil no volverб a caer sobre la Tierra o astro de partida, quedando en reposo a una distancia suficientemente grande (en principio, infinita) de la Tierra o del astro.
+A velocidades inferiores a la de escape, el proyectil se convertirнa en un satйlite artificial en уrbita elнptica alrededor del astro que lo atraiga. Segъn las dimensiones del astro y la velocidad inicial del proyectil, puede ocurrir que esa trayectoria elнptica se complete o que termine en colisiуn con el astro que atrae al proyectil. En este segundo caso, suele aproximarse la trayectoria elнptica por una parбbola (Tiro parabуlico).
+Para calcular la velocidad de escape, se usan las siguientes formulas relacionadas con la energнa cinйtica y potencial:
+ (1)         (2)
+Donde Ec es la energнa cinйtica, m es la masa del proyectil, v es la velocidad de escape,Ep es la energнa potencial, G es la constante de gravitaciуn universal, M es la masa cuerpo mбsico y r es el radio del cuerpo masivo.
+El principio de conservaciуn de la energнa, al que imponemos la condiciуn de que el objeto se aleje hasta una distancia infinita y quede en reposo:
+ (3)         (4)
+Donde ve es la velocidad de escape, G es la constante de gravitaciуn universal, M es la masa del astro, m es la masa del proyectil y r es radio del astro
+2. DESARROLLO DEL TEMA.
+La “Ley universal del efecto Doppler” (LUED) dice “La relaciуn entre el cuadrado de la frecuencia emitida y percibida, mбs la relaciуn entre el cuadrado de la velocidad de la fuente y la velocidad de la onda, mбs la relaciуn entre el cuadrado de la velocidad del observador y la velocidad de la onda, es igual a la unidad.
+ (5)
+Donde fo es la frecuencia percibida por el observador, ff es la frecuencia emitida por la fuente de ondas electromagnйticas, vf es la velocidad de la fuente, vo es la velocidad del observador y c es la velocidad de la luz.
+La “Ley universal del efecto Doppler” (LUED) se le puede aplicar tanto a la dilataciуn por velocidad del tiempo en la relatividad especial como a la dilataciуn gravitacional del tiempo en la relatividad general.
+DILATACIУN POR VELOCIDAD DEL TIEMPO A TRAVES DE LA “LUED”
+Aplicando pues esta ley universal del efecto Doppler  “LUED” en la dilataciуn por velocidad del tiempo, tal como si no existiera en la naturaleza la dilataciуn gravitacional del tiempo, aplicбndosela a una fuente de ondas electromagnйticas situada en la superficie de un cuerpo masivo como la tierra y observada a cierta altura tal como se hizo con el experimento de Pound Rebka, descrito de la siguiente manera con la relaciуn inicial con respecto al seno del бngulo de la velocidad de la fuente y del observador:
+ (6)
+Donde fo es la frecuencia de ondas electromagnйticas tal y como le percibe un observador a cierta altura de un cuerpo mбsico, fz es la frecuencia emitida por la fuente de ondas electromagnйticas pero ya corrida hacia el azul, vf es la velocidad de la fuente,vo es la velocidad del observador, ?f  es el бngulo de la fuente con respecto al observador, ?o es el бngulo del observador con respecto a la fuente y c la velocidad de la luz.   
+ (7)
+La siguiente es la misma relaciуn anterior pero expresada en funciуn del coseno del бngulo de la velocidad de la fuente de ondas electromagnйticas y del observador:
+ (8)
+Donde ff es la frecuencia emitida por una fuente de ondas electromagnйticas en la superficie de un cuerpo mбsico, fz es la frecuencia emitida por la fuente pero ya corrida hacia el azul, vf  es la velocidad de la fuente en la superficie del cuerpo masivo, vo es la velocidad del observador a cierta altura del objeto masivo, ?f  es el бngulo de la fuente con respecto al observador, ?o es el бngulo del observador con respecto a la fuente y c la velocidad de la luz.    
+ (9)
+Remplazando a la relaciуn nъmero nueve (9) en la anterior relaciуn nъmero siete (7) nos resulta la siguiente relaciуn:
+ (10)
+Donde ff es la frecuencia emitida por una fuente de ondas electromagnйticas ubicada en la superficie de un cuerpo mбsico, fo  es la frecuencia tal y como la percibe un observador a cierta altura, vf  es la velocidad de la fuente en la superficie del cuerpo masivo, vo es la velocidad del observador a cierta altura del objeto masivo, ?f  es el бngulo de la fuente con respecto al observador, ?o es el бngulo del observador con respecto a la fuente y c la velocidad de la luz.
+Cuando un observador en reposo percibe o mide una frecuencia procedente de la superficie de un cuerpo mбsico como en el experimento de Pound Rebka, se configura es un Doppler transversal por que los бngulos ?f y ?o quedan de un valor de 90 grados y la relaciуn subsiste de la siguiente manera:
+ (11)
+Donde ff es la frecuencia emitida por una fuente de ondas electromagnйticas ubicada en la superficie de un cuerpo mбsico, fo es la frecuencia tal y como la percibe un observador a cierta altura, vf  es la velocidad de la fuente en la superficie del cuerpo masivo, vo es la velocidad del observador a cierta altura del objeto masivoy c la velocidad de la luz.
+Aquн es donde se encuentra la columna vertebral de este artнculo por que el cuadrado de la velocidad de la fuente de ondas electromagnйticas mбs el cuadrado de la velocidad del observador es igual al cuadrado de la velocidad de escape que en la dilataciуn del tiempo por velocidad no significa nada, pero en la dilataciуn gravitacional del tiempo en ondas gravitacionales es de mucho interйs:
+ (12)
+Donde ve es la velocidad de escape, vf es la velocidad de la fuente y vo es la velocidad del observador.   
+ (13)
+
+Donde ff es la frecuencia emitida por una fuente de ondas electromagnйticas ubicada en la superficie de un cuerpo mбsico, fo es la frecuencia tal y como la percibe un observador a cierta altura, ve  es la velocidad de escape y c la velocidad de la luz.
+DILATACIУN GRAVITACIONAL DEL TIEMPO A TRAVES DE LA “LUED”
+Pero resulta que la “La ley universal del efecto Doppler” (LUED) tambiйn se le puede aplicar a la dilataciуn gravitacional del tiempo de la siguiente manera:
+ (14)
+Donde to es el tiempo propio para un observador rбpido distante del objeto masivo y por fuera del campo gravitacional, td es el tiempo propio para un observador lento que estб ubicado dentro de un campo gravitacional, vf es la velocidad de de la fuente de ondas gravitacionales, vo es la velocidad del observador lento que estб dentro del campo gravitacional y c la velocidad de la luz.
+ (15)
+Donde to es el tiempo propio para un observador rбpido distante del objeto masivo y por fuera del campo gravitacional, td es el tiempo propio para un observador lento dentro del campo gravitacional, vf es la velocidad de la fuente de ondas gravitacionales,vo es la velocidad del observador lento que estб dentro del campo gravitacional, ve  es la velocidad de escape y c la velocidad de la luz.
+ (16)           (12)
+Donde to es el tiempo propio para un observador rбpido distante del objeto masivo y por fuera del campo gravitacional, td es el tiempo propio para un observador lento dentro del campo gravitacional, vf es la velocidad de la fuente de ondas gravitatorias, voes la velocidad del observador lento de ondas electromagnйticas y que estб dentro del campo gravitacional, ve  es la velocidad de escape y c la velocidad de la luz.
+Podemos ver que la velocidad de escape en la dilataciуn por velocidad del tiempo donde se estudian es ondas electromagnйticas, es diferente a la velocidad de escape calculada en la dilataciуn gravitacional del tiempo donde se estudian son ondas gravitacionales, que aunque tienen la misma velocidad que las ondas electromagnйticas,  se utilizan son los equivalentes en unidades a los cuadrados de las velocidades de la fuente y del observador como son el producto de las aceleraciones gravitacionales de la fuente masiva de ondas gravitacionales por el propio radio, tanto de la fuente mбsica como del observador, por lo tanto en este cбlculo gravitacional que es el que nos sirve en la siguiente descripciуn de la velocidad de escape:
+Entonces remplazando en la anterior relaciуn nъmero doce (12) al producto de las aceleraciones gravitacionales por el radio de la fuente de ondas gravitacionales o cuerpo masivo y la aceleraciуn gravitacional del observador por el radio del observador lento que estб ubicado dentro del campo gravitatorio, produce una relaciуn descrita de la siguiente manera:
+ (17)
+Donde ve es la velocidad de escape, ? es una constante geomйtrica, Tes el perнodo, r es el radio del objeto masivo y h la altura del observador lento dentro del campo gravitacional.   
+ (18)
+Donde ve es la velocidad de escape, ? es la velocidad angular de la fuente de ondas gravitatorias y el observador lento dentro del campo gravitacional, r es el radio del cuerpo mбsico y h es la altura donde ubicado el observador lento dentro del campo gravitacional.
+ (19)
+Donde ve es la velocidad de escape, ? es la velocidad angular de la fuente de ondas gravitatorias y el observador lento que estб dentro del campo gravitacional, r es el radio del cuerpo mбsico y h es la altura donde ubicado el observador lento que estб dentro del campo gravitacional.
+En esta anterior relaciуn nъmero diez y nueve (19) reemplazamos a los respectivos productos de las aceleraciones gravitacionales por su radio y entonces queda descrita la relaciуn de la velocidad de escape de una fuente de ondas gravitatorias de la siguiente manera:
+ 
+ (20)          (12)
+Donde ve es la velocidad de escape, G es la constante de gravitaciуn universal,  M es la masa de la fuente de ondas gravitatorias o del cuerpo mбsico, r es el radio del objeto masivo, h es la altura donde estб ubicado el observador lento que estб dentro del campo gravitacional, vf es la velocidad de la fuente de ondas electromagnйticas y vo es la velocidad del observador de ondas electromagnйticas.   
+ (20a)          (20b)         
+Donde vf es el equivalente en unidades a la velocidad de la fuente pero en ondas gravitacionales, vo es el equivalente a la velocidad del observador pero en ondas gravitacionales, G es la constante de gravitaciуn universal,  M es la masa de la fuente de ondas gravitatorias o del cuerpo mбsico, r es el radio del objeto masivo, h es la altura donde estб ubicado el observador lento que estб dentro del campo gravitacional.   
+(21)
+ (22)
+Donde ve es la velocidad de escape, G es la constante de gravitaciуn universal,  M es la masa de la fuente de ondas gravitatorias o del cuerpo mбsico, r es el radio del objeto masivo, h es la altura donde estб ubicado el observador lento que estб dentro del campo gravitacional.   
+ (23)
+Donde ve es la velocidad de escape, G es la constante de gravitaciуn universal,  M es la masa de la fuente de ondas gravitatorias o cuerpo mбsico, r es el radio del objeto masivo, h es la altura donde estб ubicado el observador lento que estб dentro del campo gravitacional.   
+Esta relaciуn anterior se describe el valor de la velocidad de escape para ese observador lento que estб dentro del campo gravitacional a esa altura. Pero resulta que si el observador estб ubicado en la superficie de la fuente o cuerpo masivo la velocidad de escape es la siguiente.
+ (24)
+Donde ve es la velocidad de escape, G es la constante de gravitaciуn universal,  M es la masa de la fuente de ondas gravitatorias o cuerpo mбsico, r es el radio del objeto masivo, h es la altura donde estб ubicado el observador lento que estб dentro del campo gravitacional.
+Volvamos nuevamente a la anterior ecuaciуn nъmero diez y seis (16) que describe el tiempo propio del observador lento y remplazamos en ella a la velocidad de escape descrita en la tambiйn anterior relaciуn nъmero veinte y dos (22):
+ (25)
+Donde to es el tiempo propio para un observador rбpido distante del objeto masivo y por fuera del campo gravitacional, td es el tiempo propio para un observador lento dentro del campo gravitacional, ve  es la velocidad de escape, G es la constante de gravitaciуn universal, M es la masa de la fuente de ondas gravitatorias o cuerpo masivo, res el radio del cuerpo mбsico, h es la altura donde estб ubicado el observador lento que estб dentro del campo gravitacional y c la velocidad de la luz.
+ (26)
+Donde to es el tiempo propio para un observador rбpido distante del objeto masivo y por fuera del campo gravitacional, td es el tiempo propio para un observador lento dentro del campo gravitacional, G es la constante de gravitaciуn universal, M es la masa de la fuente de ondas gravitatorias o cuerpo masivo, r es el radio del cuerpo mбsico, h es la altura donde estб ubicado el observador lento que estб dentro del campo gravitacional y c la velocidad de la luz.
+El tiempo propio para un observador lento ubicado en la superficie de un cuerpo mбsico es el siguiente:
+ (27) 
+Donde to es el tiempo propio para un observador rбpido distante del objeto masivo y por fuera del campo gravitacional, td es el tiempo propio para un observador lento dentro del campo gravitacional, G es la constante de gravitaciуn universal, M es la masa de la fuente de ondas gravitatorias o cuerpo masivo, r es el radio del cuerpo mбsico, h es la altura donde estб ubicado el observador lento que estб dentro del campo gravitacional y c la velocidad de la luz.
+DILATACIУN GRAVITACIONAL DE LA MASA A TRAVES DE LA “LUED”
+Al tiempo propio de ese observador rбpido distante del objeto masivo y que estб ubicado fuera del campo gravitacional, ese mismo tiempo propio debe ser un tiempo invariante pues a ese mismo observador le corresponde tambiйn una respectiva masa propia e invariante. Entonces aplicamos la “LUED” a la masa de la siguiente manera:
+ (28)       (28)
+Donde mo es la masa invariante para un observador rбpido distante del objeto masivo y por fuera del campo gravitacional, md es la masa lenta para un observador lento dentro del campo gravitacional, vf  es la velocidad de rotaciуn de la fuente masiva, vo es la velocidad de rotaciуn del observador lento ubicado dentro del campo gravitacional, Ges la constante de gravitaciуn universal, M es la masa de la fuente masiva de ondas gravitatorias, r es el radio de la fuente masiva y c es la velocidad de la luz.
+ (29)
+Donde mo es la masa invariante para un observador rбpido distante del objeto masivo y por fuera del campo gravitacional, md es la masa lenta para un observador lento dentro del campo gravitacional, ve  es la velocidad de escape, G es la constante de gravitaciуn universal, M es la masa de la fuente masiva de ondas gravitatorias, r es el radio de la fuente masiva, h es la altura donde se encuentra ubicado el observador lento dentro del campo gravitacional y c es la velocidad de la luz.
+Cuando el observador lento que estб dentro del campo gravitacional, estб ubicado precisamente en la superficie del objeto masivo, la masa para ese observador lento es la siguiente:
+ (30)
+Donde mo es la masa invariante para un observador rбpido distante del objeto masivo y por fuera del campo gravitacional, md es la masa lenta para un observador lento ubicado dentro del campo gravitacional, ve  es la velocidad de escape, G es la constante de gravitaciуn universal, M es la masa de la fuente masiva de ondas gravitatorias, r es el radio de la fuente masiva y c es la velocidad de la luz.
+3. CONCLUSIONES.
+a)- La GRAN CONCLUSIУN  de este trabajo es que la velocidad de escape siendo un concepto puramente del Doppler transversal, es la suma como vector de la velocidad de la fuente y la velocidad del observador lento y que ademбs, en la dilataciуn gravitacional del tiempo la velocidad de escape va decreciendo hasta un lнmite a medida que el observador lento se aleja de la fuente o cuerpo mбsico.
+ (16) 
+Donde td es el tiempo propio para un observador lento dentro del campo gravitacional,to es el tiempo propio para un observador rбpido distante del objeto masivo y por fuera del campo gravitacional, ve es la velocidad del escape de la fuente de ondas gravitatorias y c es la velocidad de la luz.
+b)- Otra GRAN CONCLUSIУN es encontrar el lнmite del valor hasta donde puede decrecer la velocidad de escape a medida que se incrementa la altura del observador lento que estб dentro del campo gravitacional del cuerpo mбsico, tanto que cuando h=?sucede lo siguiente:
+ (23)
+Donde ve es la velocidad de escape de una fuente de ondas gravitacionales, G es la constante de gravitaciуn universal,  M es la masa de la fuente de ondas gravitatorias o cuerpo mбsico, r es el radio del objeto masivo, h es la altura donde estб ubicado el observador lento que estб dentro del campo gravitacional.
+ (31)
+Donde ve es la velocidad de escape de una fuente de ondas gravitacionales, G es la constante de gravitaciуn universal,  M es la masa de la fuente de ondas gravitatorias o cuerpo mбsico, r es el radio del objeto masivo, h es la altura donde estб ubicado el observador lento que estб dentro del campo gravitacional.
+c)- Otra GRAN CONCLUSIУN es que la masa aparente de una partнcula cualquiera en la relatividad especial, si la partнcula estб inmersa en un campo gravitacional entonces esa masa aparente queda descrita de la siguiente manera:
+ (32) 
+Donde m es la masa aparente de la relatividad especial dentro de un campo gravitacional, mo es la masa invariante para un observador rбpido distante del objeto masivo y por fuera del campo gravitacional, v  es la velocidad de la partнcula que se mueve dentro del campo gravitatorio, G es la constante de gravitaciуn universal, M es la masa de la fuente masiva que emite ondas gravitatorias, h es la altura del cuerpo mбsico donde se encuentra transitando la partнcula, r es el radio de la fuente masiva y c es la velocidad de la luz.
+d)- Otra GRAN CONCLUSIУN es el cбlculo de la velocidad de escape en los agujeros negros quien serнa igual a la velocidad de la onda gravitatoria del Doppler transversal gravitatorio:
+             (16)        (33)
+ (34)        (35)      (36)    
+                                   
+Donde to es el tiempo propio para un observador rбpido distante del objeto masivo y por fuera del campo gravitacional, td es el tiempo propio para un observador lento dentro del campo gravitacional, ve  es la velocidad de escape y c la velocidad de la luz.
+e)- Otra GRAN CONCLUSIУN es la explicaciуn de que el fin ъltimo que sufre la masa de una partнcula que cae en un agujero negro siguiendo una geodйsica que acaba en una “Singularidad” espaciotemporal, pues la masa de esa partнcula se incrementarнa infinitamente y ser Masa Imaginaria:
+ (29)
+Donde mo es la masa invariante para un observador rбpido distante del objeto masivo y por fuera del campo gravitacional, md es la masa lenta para un observador lento dentro del campo gravitacional, ve  es la velocidad de escape, G es la constante de gravitaciуn universal, M es la masa de la fuente masiva de ondas gravitatorias, r es el radio de la fuente masiva, h es la altura donde se encuentra ubicado el observador lento dentro del campo gravitacional y c es la velocidad de la luz.
+f)- La otra GRAN CONCLUSIУN de este trabajo es la descripciуn de la naturaleza fнsica de las singularidades que son las configuraciones de un Doppler transversal lнmite cuando la velocidad de escape es el lнmite si iguala a la velocidad de la luz quien identifica a la superficie imaginaria, esfйrica y cerrada de altura h regiуn del campo alrededor de un agujero negro que es como aquel sitio del espacio-tiempo circunscrito por una superficie frontera imaginaria llamada horizonte de sucesos:
+                      (22)       (33)
+ (35)      (37)
+                
+Donde ve es la velocidad de escape, G es la constante de gravitaciуn universal, M es la masa de la fuente de ondas gravitacionales, r es el radio de la fuente de ondas gravitacionales o cuerpo mбsico, h es la altura a donde se sitъa la hipersuperficie imaginaria frontera de forma esfйrica del horizonte de sucesos que rodea la superficie del agujero negro y c la velocidad de la luz.
+Por ejemplo si el horizonte de sucesos de un agujero negro estuviera a la altura de h=0 entonces la superficie esfйrica de la frontera imaginaria del horizontes de eventos alrededor del agujero negro coincidiera con la misma superficie material del propio agujero negro.
+ (38)
+Donde ve es la velocidad de escape de una fuente de ondas gravitacionales, G es la constante de gravitaciуn universal,  M es la masa de la fuente de ondas gravitatorias o cuerpo mбsico, r es el radio del objeto masivo, c es la velocidad de la luz.
+Pero si la superficie esfйrica e imaginaria del horizonte de eventos alrededor de un agujero negro, se situara a cierta altura sobre la superficie material del agujero por ejemplo a una altura igual al preciso radio del mismo agujero negro donde h=r quedarнa una regiуn del espacio-tiempo por encima de la superficie material del agujero negro circunscrita entre la superficie material del agujero negro y el horizonte de eventos, entonces en la propia superficie material del agujero negro se necesitarнan velocidades superiores a la de la luz para poder escapar de la superficie material del agujero negro y la teorнa indica que nada puede alcanzarla, velocidad que sin embargo si es apenas suficiente en la superficie del horizonte de sucesos pero, no es competente para poder escapar de la propia superficie material del agujero negro:
+ (39)
+Donde ve es la velocidad de escape de una fuente de ondas gravitacionales, G es la constante de gravitaciуn universal,  M es la masa de la fuente de ondas gravitatorias o cuerpo mбsico, r es el radio del objeto masivo, c es la velocidad de la luz.
+G)- Otra ULTIMA Y GRAN CONCLUSIУN y quizбs la mбs compleja e importante es lo que influyen las leyes de estas ciencias bбsicas en la naturaleza de la conciencia humana, pues para valorar el presente ya sea para aceptarlo o no, siendo todo absolutamente de naturaleza ondulatoria, es diferente a lo que hacemos sin embargo por lo general valoramos el instante que acontece si las cosas estбn bien o mal, que lo valoramos a travйs de una teorнa de la informaciуn fuertemente determinista, y con ella elaboramos la memoria y el aprendizaje.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EL RAYO LБSER DUAL
+
+ Heber Gabriel Pico Jimйnez MD,
+Medico Cirujano
+heberpico@telecom.com.co
+Calle 13 No.10-40 Ceretй, Cуrdoba, Colombia
+RESUMEN
+En este trabajo gracias a reconocerle masa al fotуn, descubre la razуn del por quй al aplicar la ecuaciуn de De Broglie a los cuerpos macroscуpicos, dado que su masa es muy grande, la longitud de onda asociada al movimiento cualquiera de un cuerpo, resulta ser tan pequeсa que en ellos se
+hace imposible de apreciar sus caracterнsticas ondulatorias, cuando realmente las longitudes de onda debнan ser es demasiado grandes a pequeсas velocidades.
+Palabras claves: Coherencia, Monocromбtica, Cantidad de Movimiento, Lбser, Dualidad.
+1. Introducciуn
+Refiriendose a la formula de De Broglie que es muy conocida, la describimos a manera de introducciуn en las siguientes ecuaciones nъmero uno (1) y dos (2):
+ (1)
+ (2)
+Viendo la formula de De Broglie se aprecia fбcilmente que a medida que aumenta la masa de los cuerpos o su velocidad, disminuye considerablemente la longitud de onda. Esto dado que la masa de los cuerpos macroscуpicos es muy grande, entonces la longitud de onda asociada a un momento lineal, resulta asн tan pequeсa que en ellos si se estudia el movimiento de un cuerpo, entonces se hace imposible apreciar las caracterнsticas ondulatorias del movimiento en los cuerpos mayores.
+2. Desarrollo del Tema.
+Iniciamos el desarrollo del tema describiendo las partнculas de Dirac Fig.1, que son partнculas estructurales de espнn semientero de las que estб constituida toda la materia como los Quaks y los fotones. Estas dos partнculas de masas equivalentes se mantienen en parejitas y son de cargas elйctricas contrarias permitiendo que los fotones sean neutros en carga elйctrica y con espines enteros.
+
+Fig.1. Partнcula de Dirac.
+Las Partнculas de Dirac son dos que componen una parejita de cargas elйctricas contrarias segъn se muestra con los colores rojo y azul.
+Rojo = Carga Electrica Positiva
+Azul = Carga Electrica Negativa
+Cuando estas parejitas adquieren cantidad de movimiento de vacio que es a la velocidad de la luz como en los fotones, se tratan de separar y forman un dipolo que constituye un campo elйctrico perpendicular a la direcciуn de propagaciуn. Este campo elйctrico de direcciуn siempre perpendicular a la direcciуn de propagaciуn, tambiйn genera un campo magnйtico perpendicular a йl y mantienen una helicidad ya sea en sentido horario o antihorario alrededor del eje de propagaciуn del fotуn. Esta helicidad es la polarizaciуn circular del fotуn percibida por los estudios en dos dimensiones con caracterнsticas ondulatorias. Esta helicidad completa 360 grados al desplazamiento de propagaciуn en una longitud de onda y corresponde a un ciclo de frecuencia ondulatoria. El grado de helicidad de la parejita de Dirac en su movimiento, conserva mucha relaciуn con la intensidad y longitud de onda electromagnйtica del fotуn.
+Masa, Cantidad de Movimiento y Energнa del Fotуn
+La energнa y lo que es su equivalente en Masa y el momento lineal de un fotуn dependen ъnicamente de su frecuencia o longitud de onda, ya que se mueven en el vacio a la velocidad de la Luz y estбn relacionadas mediante las siguientes expresiones tres (3), cuatro (4) y cinco (5):
+(3)
+(4)
+(5)
+? = Frecuencia ondulatoria del fotуn
+? = Longitud de onda del fotуn
+c = Velocidad de la Luz
+h = Const. de Planck
+Queremos resaltar un detalle importante de la ecuaciуn nъmero cuatro (4) y es que la masa y en consecuencia, la cantidad de movimiento de un fotуn, independiente de la velocidad, es directamente proporcional a la frecuencia de la onda.
+Cantidad de Movimiento del Rayo Lбser
+Resulta demasiado evidente que la potencia de un fotуn cualquiera dependa directamente de la frecuencia de la onda simplemente en una coherencia temporal. Pero en el rayo Lбser la potencia ademбs de la frecuencia responsable de la coherencia temporal, tambiйn se debe al nъmero de fotones y es directamente proporcional al nъmero entero de fotones que tienen la misma longitud de onda, es decir resulta de la coherencia espacial. La relaciуn entre la potencia total de un rayo lбser y la energнa de un fotуn, debe ser igual a un nъmero entero que es el nъmero de fotones monocromбticos que integran el fotуn Lбser.
+ (6)
+ (7)
+n = Nъmero de Fotones monocromati cos del Lбser
+Vemos que considerando al fotуn Lбser como una partнcula, la cantidad de movimiento total de un fotуn Lбser, es mucho mayor de la cantidad de movimiento que realmente conserva la relaciуn con la longitud de onda y la frecuencia del fotуn elemental no amplificado del Lбser.
+Amplificaciуn estimulada del Rayo Lбser.
+Cuando un fotуn se acerca a un electrуn excitado, este fotуn a travйs de sus dipolos prбcticamente, arranca elйctrica y magnйticamente un fotуn similar del electrуn. Quiere decir esta expresiуn que existe una atracciуn electromagnйtica lateral entre los fotones.
+De Broglie en cuerpos Macroscуpicos y Mayores.
+Cuando un cuerpo cualquiera se mueve en una direcciуn a una velocidad tambiйn cualquiera y como dijo De Broglie, en su movimiento tiene una onda asociada visto desde el punto de vista ondulatorio. Cuando un cuerpo inicia un movimiento relativo, su masa y energнa comienza a organizarse de tal manera relativamente, que se comporta como un rayo Lбser de muy alta potencia en una direcciуn, cuya cantidad de movimiento es exagerada pero a expensas de una amplificaciуn espacial de la cantidad de movimiento de un Lбser a esa velocidad especifica en la que viaja precisamente el cuerpo. El movimiento del cuerpo cualquiera que sea su masa, estarнa inicialmente asociado a una longitud de onda igual a la velocidad de la luz y con una cantidad de movimiento mнnimo ya descrito en un trabajo anterior que hace parte de todo este esfuerzo que estamos haciendo “Masa, Cantidad de Movimiento y Energнa Mнnima del Fotуn”
+3. Conclusiones.
+a)-La primera conclusiуn es que realmente hay que reconocerle masa al fotуn, cualquiera que sea, en reposo o no pero la tiene.
+b)-Queremos destacar en este trabajo, la “Estructura dual de los nъcleos atуmicos” que realmente estбn sostenidos en los mismos principios de este artнculo.
+c)-Este artнculo parece contribuir a la unificaciуn y poner de acuerdo a la mecбnica cuбntica con la relatividad general.
+d)-Este trabajo estб basado en un espacio de 5 dimensiones considerando a la masa como quinta dimensiуn del espacio.
+e)-La rotaciуn de los cuerpos parece estar relacionados con este fenуmeno descrito en este artнculo.
+f)-Por ultimo se quiere anexar como conclusiуn, una figura donde se presenta al neutrуn y protуn como dos prismas rectos de cinco caras con bases triangulares y al nъcleo de Helio-4 en la Fig.2. Porque se basan en este trabajo actual.
+

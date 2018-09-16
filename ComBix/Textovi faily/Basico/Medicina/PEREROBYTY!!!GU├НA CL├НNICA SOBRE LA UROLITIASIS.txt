@@ -1,0 +1,1144 @@
+http://aeu.es/UserFiles/Urolitiasis.pdf
+C. Turk_GUIA CLINICA SOBRE LA UROLITIASIS_MEDICINA_2010
+1. GENERALIDADES
+El tratamiento de los pacientes con urolitiasis es una parte importante de la practica
+urologica cotidiana. El tratamiento clinico optimo de la urolitiasis requiere conocer:
+• etiologia de la formacion de calculos
+• metabolismo de la formacion de calculos
+• diversidad de procedimientos diagnosticos
+• tratamiento racional del colico nefritico agudo
+• tratamiento expulsivo medico (TEM)
+• ultimos metodos de eliminacion de calculos
+• opciones metafilacticas.
+Esta guia clinica es una actualizacion de la publicada en el ano 2009 por el anterior
+grupo de guias clinicas de la EAU (1-4). Un especialista experto realizo busquedas
+bibliograficas en la base de datos de revisiones sistematicas de la Biblioteca Cochrane,
+en la Biblioteca Cochrane de ensayos clinicos controlados, en Medline y en Embase en
+la plataforma Dialog-Datastar. En estas busquedas se utilizo la terminologia controlada
+de las bases de datos correspondientes. Se identificaron los ensayos aleatorizados y
+controlados (EAC) y las revisiones sistematicas (RS) durante el periodo de busqueda
+abarcado (entre el 1 de enero de 2008 y el 30 de noviembre de 2009). La busqueda
+bibliografica deparo un numero considerable de articulos cientificos relevantes para
+emitir recomendaciones diagnosticas y terapeuticas o para sus grados de comprobacion
+cientifica.
+Siguiendo la metodologia habitual de la EAU, la base cientifica de las recomendaciones
+o afirmaciones se ha clasificado segun el grado de comprobacion cientifica (GCC) y el
+grado de recomendacion (GM) en caso de ser procedente. Los criterios relativos al GCC
+y GM se recogen en las tablas 1 y 2 (4).
+Tabla 1: Grado de comprobacion cientifica (GCC)*
+Grado
+Tipo de datos cientificos
+Datos cientificos procedentes de metaanalisis de ensayos aleatorizados
+Datos cientificos procedentes de al menos un ensayo aleatorizado
+Datos cientificos procedentes de un estudio controlado bien disenado sin aleatorizacion
+Datos cientificos procedentes de al menos un estudio cuasiexperimental bien disenado de otro tipo
+Datos cientificos procedentes de estudios no experimentales bien disenados, como estudios comparativos,
+estudios de correlacion y casos clinicos
+Datos cientificos procedentes de informes u opiniones de comites de expertos o de la experiencia clinica
+de autoridades en la materia
+Modificado de Sackett y cols. (5)
+7 ACTUALIZACION EN ABRIL DE 2010
+Tabla 2: Grado de recomendacion (GR)*.
+Grado
+Naturaleza de las recomendaciones
+Basada en estudios clinicos de buena calidad y coherencia en los que se abordan las recomendaciones
+concretas y que incluyen al menos un ensayo aleatorizado
+Basada en estudios clinicos bien realizados, pero sin ensayos clinicos aleatorizados
+Emitida a pesar de la ausencia de estudios clinicos de buena calidad directamente aplicables
+Modificado de Sackett y cols. (5)
+En varias afirmaciones se han asignado numeros de preferencia, 1, 2, 3, etc., a las diversas
+opciones terapeuticas para indicar la alternativa de tratamiento que se considero mas
+adecuada o de eleccion, segun la bibliografia o el consenso alcanzado. Cuando a dos
+procedimientos se les considero igual de utiles, se asigno el mismo numero de
+preferencia. El tratamiento preferido siempre tiene el numero de preferencia 1.
+El capitulo 9 dedicado a los ‘calculos ureterales’ se basa en el documento resultante de
+un proyecto de guia clinica colaborativo de la Asociacion Americana de Urologia
+(AUA, American Urological Association) y la EAU (2, 3). En esta edicion de 2010 se
+han anadido ciertos comentarios, en los que se incorporan los datos procedentes de
+publicaciones recientes. En esta seccion se graduan las recomendaciones como
+‘referencia’, ‘recomendacion’ u ‘opcion’ para un ‘paciente indice’.
+No es posible traducir estos niveles de graduacion al grado de recomendaciones
+utilizado actualmente por la EAU. Sin embargo, las afirmaciones contenidas en el
+capitulo 9 se corresponderan, al menos en parte, con el numero de preferencia asignado
+en los demas campos de la urolitiasis comentados en esta guia clinica.
+En todos los problemas clinicos, las recomendaciones ofrecidas en esta guia clinica se
+encuentran respaldadas por comentarios basados en las publicaciones mas importantes
+o, cuando los datos de la bibliografia son contradictorios o nulos, en la opinion del
+grupo. Sin embargo, no se intento realizar un analisis estructural de la bibliografia
+disponible.
+Cuando se hacen recomendaciones, el interes principal se centra en los aspectos
+medicos. Una exposicion de los aspectos economicos asociados queda fuera del ambito
+de un documento de guia clinica europea debido a la enorme diversidad geografica y la
+variacion entre los diferentes sistemas financieros en el sector sanitario europeo.
+El grupo es consciente de las diferentes posibilidades terapeuticas y tecnicas disponibles
+geograficamente. Nuestra intencion ha sido destacar las alternativas que parecen mas
+comodas para el paciente en cuanto a baja capacidad de invasion y riesgo de
+complicaciones; sin embargo, esto no significa que no sean aplicables otros metodos.
+Cuando no se recomienda una determinada forma de tratamiento, se ha indicado
+expresamente.
+1.1 Bibliografia
+8 ACTUALIZACION EN ABRIL DE 2010
+2. CLASIFICACION
+2.1 Categorias de pacientes formadores de calculos
+En la tabla 3 se recoge un sistema para clasificar a los pacientes formadores de calculos
+con arreglo al tipo de calculo y la gravedad de la enfermedad. Estas categorias son utiles
+para tomar decisiones relativas a la necesidad de evaluacion metabolica y tratamiento
+medico (1-4).
+Tabla 3: Categorias de pacientes formadores de calculos.
+Calculos no calcicos
+Calculos calcicos
+Definicion
+Calculos infecciosos:
+• Fosfato amonico magnesico
+• Carbonato-apatita
+• Urato de amonioa
+Acido urico
+Urato de amonioa
+Urato sodico
+Cistina
+Formador de calculos por primera vez sin calculos ni fragmentos de calculos residuales
+Formador de calculos por primera vez con calculos o fragmentos de calculos residuales
+Formador de calculos recurrentes con enfermedad leve y sin calculos ni fragmentos de calculos residuales
+Formador de calculos recurrentes con enfermedad leve y con calculos o fragmentos de calculos residuales
+Formador de calculos recurrentes con enfermedad grave con o sin calculos o fragmentos de calculos
+residuales o con factores de riesgo especificos
+con independencia de categorias definidas de otro modo (tabla 4)
+Categoria
+INF
+UR
+CI
+So
+sres
+Rmo
+Rm-res
+Rs
+2.2 Factores de riesgo especificos de formacion de calculos
+Hay factores especificos de formacion recurrente de calculos (tabla 4).
+Tabla 4: Pacientes con un riesgo elevado de formacion recurrente de calculos.
+• Formacion muy recurrente de calculos (? 3 calculos en 3 anos)
+• Calculos infecciosos
+• Calculos de acido urico y de urato (gota)
+• Ninos y adolescentes
+• Calculos determinados geneticamente
+9 ACTUALIZACION EN ABRIL DE 2010
+? Cistinuria (tipo A, B, AB)
+? Hiperoxaluria primaria (HP)
+? Acidosis tubular renal (ATR) tipo I
+? 2,8-dihidroxiadenina (carencia de adenina fosforribosiltransferasa [APRT])
+? Xantina
+? Fibrosis quistica
+• Calculos de brucita
+• Hiperparatiroidismo
+• Enfermedades digestivas (enfermedad de Crohn, malabsorcion, colitis)
+• Rinon solitario
+• Fragmentos residuales de calculos (3 meses despues del tratamiento de calculos)
+• Nefrocalcinosis
+• Carga litiasica elevada bilateral
+• Antecedentes familiares de litiasis
+Otros factores de riesgo en ninos formadores de calculos o pacientes con nefrocalcinosis (5)
+• Enfermedad de Dent (gen CLCN5, ligado al cromosoma X, sindrome de Fanconi)
+• Sindrome de Bartter (hipopotasemia con alcalosis metabolica hipocloremica)
+• Sindrome de hipomagnesemia e hipercalciuria familiar (SHHF) (paracelina-l, autosomica recesiva)
+• Nefropatia hiperuricemica juvenil familiar (NHJF; nefropatia quistica medular, NQM)
+• Sindrome de Williams-Beuren
+• Antiguos neonatos prematuros
+2.3 Bibliografia
+3. PROCEDIMIENTOS DIAGNOSTICOS
+3.1 Estudios de imagen diagnosticos
+Los pacientes con un colico nefritico suelen presentar un dolor caracteristico en la fosa
+renal, vomitos y, quiza, fiebre. Pueden tener antecedentes de litiasis. El diagnostico
+clinico ha de confirmarse mediante una tecnica de imagen apropiada. La eleccion del
+estudio de imagen dependera de la carga del paciente, la exposicion a los rayos X y las
+restricciones en cuanto al uso de medios de contraste, como la presencia de una alergia,
+concentracion elevada de creatinina, medicacion con metformina, hipertiroidismo no
+tratado, mielomatosis/paraproteinemia, embarazo o lactancia.
+Recomendacion relativa a los estudios de imagen diagnosticos
+GCC
+GR
+• Los estudios de imagen son imprescindibles en los pacientes con fiebre o un solo rinon y cuando el
+diagnostico de litiasis es dudoso
+Las tecnicas de imagen fiables para la evaluacion de todos los pacientes con sintomas de
+calculos en las vias urinarias se recogen en la tabla 5. En un colico nefritico agudo, la
+urografia excretora (pielografia intravenosa, PIV) ha sido la prueba de referencia. Sin
+embargo, en los ultimos anos, la tomografia computarizada (TC) helicoidal sin contraste
+se ha introducido como una alternativa rapida y sin contraste (1-3). En estudios
+prospectivos aleatorizados de pacientes con dolor agudo en la fosa renal, la
+10 ACTUALIZACION EN ABRIL DE 2010
+especificidad y la sensibilidad de la TC helicoidal sin contraste fueron similares (4, 5-9)
+o superiores (10-11) a las obtenidas con la urografia.
+En casos seleccionados puede obtenerse mas informacion sobre la funcion renal
+mediante la combinacion de TC con infusion de contraste. Las ventajas de la TC son la
+demostracion de calculos de acido urico y xantina, que son radiotransparentes en las
+radiografias simples, y la capacidad de detectar diagnosticos alternativos (7, 12). Sin
+embargo, la ventaja de una modalidad de imagen sin contraste debe equilibrarse con la
+mayor dosis de radiacion administrada al paciente durante el estudio de TC (3, 5, 13).
+Ademas, la TC es menos adecuada para fines de seguimiento despues del tratamiento de
+calculos radiopacos. Un metodo alternativo, de uso habitual, para evaluar a los pacientes
+con dolor agudo en la fosa renal consiste en una radiografia simple de rinones, ureteres
+y vejiga (RUV) combinada con ecografia (ECO). Una experiencia amplia indica que, en
+una proporcion elevada de pacientes, estos metodos son suficientes para diagnosticar un
+calculo ureteral.
+Entre las exploraciones especiales realizadas en casos concretos figuran pielografia
+retrograda, pielografia anterograda y gammagrafia.
+Tabla 5: Modalidades de imagen en la evaluacion diagnostica de los pacientes con dolor agudo en la fosa
+renal (1-12).
+Numero de preferencia
+Exploracion
+GCC
+GR
+TC sin contraste
+Urografia excretora (PIV)
+RUV + ECO
+Procedimiento de referencia
+TC = tomografia computarizada; RUV = radiografia de rinones, ureteres y vejiga; ECO = ecografia.
+Aunque la administracion intravascular de un medio de contraste suele ser
+responsabilidad del radiologo, la inyeccion de contraste se utiliza en ocasiones como
+procedimiento complementario para localizar calculos durante la litotricia mediante
+ondas de choque. Muchos urologos tambien se responsabilizan de la evaluacion
+radiologica diagnostica de los pacientes con problemas litiasicos. Por tanto, resulta
+primordial un conocimiento basico de los riesgos que entrana el uso de medios de
+contraste y las precauciones necesarias (tabla 6). Ademas, son aplicables todas las
+recomendaciones de la Sociedad Europea de Radiologia Genitourinaria y otras
+publicaciones especificas (14-21).
+Tabla 6: Consideraciones generales con respecto al uso de medios de contraste.
+No deben administrarse medios de contraste, o deben evitarse, en las siguientes circunstancias
+GCC
+11 ACTUALIZACION EN ABRIL DE 2010
+GR
+Citas bibliograficas seleccionadas
+• Pacientes con alergia a medios de contraste
+• Creatinina serica o plasmatica > 150 ?mol/l*
+• Pacientes tratados con metformina
+• Hipertiroidismo no tratado
+• Pacientes con mielomatosis
+*Creatinina en mg/dl = ?mol/l x 0,0113.
+3.1.2 Bibliografia
+3.2 Analisis de la composicion de los calculos
+En todos los pacientes debe analizarse al menos un calculo (1-4). La repeticion del
+analisis esta indicada cuando se ha producido algun cambio que podria haber influido en
+la composicion de los calculos. Los procedimientos analiticos de eleccion son:
+• Cristalografia de rayos X.
+• Espectroscopia infrarroja.
+Cuando no se recuperan calculos o material litiasico, la composicion de los calculos
+puede evaluarse mediante lo siguiente:
+• caracteristicas radiologicas de los calculos (tabla 7)
+• examen microscopico del sedimento urinario para detectar cristales de estruvita o
+cistina
+• pH de la orina: bajo en los pacientes con calculos de acido urico y elevado en
+aquellos con calculos infecciosos
+• bacteriuria/urocultivo: cuando un cultivo es positivo, hay que solicitar
+microorganismos productores de ureasa
+• pruebas cualitativas de cistina, por ejemplo, prueba del nitroprusiato sodico, prueba
+de Brand (5) o cualquier otra prueba de cistina.
+Tabla 7: Caracteristicas radiologicas.
+Radiopacos
+• Oxalato calcico monohidratado (whewelita)
+• Oxalato calcico dihidratado (whedelita)
+• Fosfato calcico (diferente)
+• Carbonato
+• Brucita
+Ligeramente radiopacos
+12 ACTUALIZACION EN ABRIL DE 2010
+• Fosfato amonico magnesico (estruvita)
+• Cistina
+Radiotransparentes
+• Acido urico
+• Urato
+• Xantina
+• 2,8 dihidroxiadenina
+• ‘Calculos por medicamentos’ (indinavir, sulfamidas)
+3.2.1 Bibliografia
+3.3 Analisis bioquimicos
+3.3.1 Estudios analiticos en la fase aguda (tabla 8)
+Tabla 8: Analisis bioquimicos recomendados en los pacientes con un episodio litiasico agudo.
+Todos los pacientes
+Pacientes con fiebre
+Pacientes con vomitos
+Informacion util opcional
+Analisis de orina
+Sedimento urinario/tira reactiva para:
+• Eritrocitos
+• Leucocitos
+• Bacteriuria (nitritos)
+• Urocultivo en caso de posible bacteriuria
+Analisis de sangre
+• Creatinina serica
+• Acido urico
+• Calcio ionizado o total y albuminaa
+• Proteina C reactiva (PCR) y recuento de eritrocitos
+• Sodio en suero/plasma
+• Potasio en suero/plasma
+• pH urinario aproximadob
+• Todos los demas estudios que podrian ser necesarios en caso de intervencion
+aPuede ser la unica ocasion en la que se identifique a los pacientes con hipercalcemia.
+bEl conocimiento del pH urinario podria reflejar el tipo de calculo.
+3.3.2 Analisis en la busqueda de factores de riesgo de formacion de calculos
+En las tablas 9-11 se recoge un programa analitico para identificar los factores de riesgo
+metabolicos que provocan la formacion de calculos. Se recomiendan dos recogidas de
+orina de 24 horas para cada serie de analisis (1-3). Las recogidas de orina se repiten en
+caso necesario (por ejemplo, aclaramiento de creatinina no concluyente).
+13 ACTUALIZACION EN ABRIL DE 2010
+Tabla 9: Programa analitico para los pacientes con litiasis.
+Categoria1
+INF
+UR
+CI
+So
+Sres
+Rmo
+Rm-res
+Rs
+Analisis de sangre (suero/plasma)
+Creatinina
+Creatinina, urato
+Si (vease la tabla 10)
+Si (vease la tabla 11)
+Seguimiento con analisis de orina
+Cultivo, pH
+Urato, pH
+Cistina, pH
+Analisis de orina limitado (solo orina al azar en ayunas)
+Si (vease la tabla 11)
+Analisis de orina limitado (solo orina al azar en ayunas)
+Prevencion (vease el capitulo 16)
+Si
+Consejos generales (vease la seccion 16.1)
+Consejos generales
+1Vease en la tabla 3 del capitulo 2 una explicacion de las categorias de formadores de calculos.
+Tabla 10: Analisis de sangre y orina en los pacientes con litiasis no complicada (So, Rmo): muestras de
+sangre y orina al azar.
+Analisis de calculos
+En todos los casos debe analizarse un calculo con cristalografia de rayos X o espectroscopia infrarroja.
+?No resulta aceptable la quimica humeda!
+Analisis de sangre
+Calcio ionizado o total y albumina
+O BIEN
+Creatinina
+Urato
+Analisis de orina
+Orina al azar en ayunas matutina o muestra de orina al azar:
+• pH
+• leucocitos/bacterias
+• prueba de cistina o microscopia del sedimento urinario en busca de cristales patognomonicos
+Tabla 11: Analisis de orina en los pacientes con litiasis calcica complicada*.
+Recogida de orina durante un periodo determinado
+Preferencia
+14 ACTUALIZACION EN ABRIL DE 2010
+Variables urinarias
+• Calcio
+• Oxalato
+• Citrato
+• Creatinina
+• Volumen
+• Urato1
+• Magnesio2
+• Fosfato2,3
+• Urea2,3
+• Sodio1,3
+• Potasio1,3
+1Como el acido urico precipita en soluciones acidas, el urato tiene que analizarse en una muestra que no
+haya sido acidificada, o tras alcalinizacion para disolver el acido urico. Cuando se haya recogido una
+muestra de orina de 16 horas en un frasco con conservante acido, las otras 8 horas del periodo de
+24 horas pueden emplearse para recoger orina en un frasco con azida sodica para efectuar un analisis
+de urato. 2Un analisis de magnesio y fosfato es necesario para obtener estimaciones aproximadas de la
+sobresaturacion con oxalato calcico (CaOx) y fosfato calcico (CaP), como los indices AP(CaOx) y
+AP(CaP).
+3Las determinaciones de urea, fosfato, sodio y potasio son utiles para evaluar los habitos dieteticos del
+paciente.
+*En relacion con las categorias de calculos, Rs, Sres, Rm-res, asi como con los pacientes con un riesgo
+elevado de formacion recurrente de calculos, veanse las tablas 3 y 4.
+La eleccion del programa analitico debe basarse en los resultados del analisis de los
+calculos. En cuanto al analisis de orina, el procedimiento habitual recomendado sigue
+siendo la recogida de dos muestras de orina de 24 horas, aun cuando se han propuesto
+otras pautas de recogida en la bibliografia. Los frascos para recogida deben prepararse
+con timol al 5 % en isopropanol (10 ml para un frasco de 2 l) o conservarse a
+temperatura fria (? 8° C). El analisis de orina debe efectuarse inmediatamente despues
+de la recogida para reducir al minimo el riesgo de error (4-7).
+Se han desarrollado varios indices de riesgo para describir el riesgo de cristalizacion del
+oxalato calcico en la orina, entre ellos, el indice APCaOx, el EQUIL-2 y el indice de
+riesgo de Bonn. Estos indices de riesgo aun estan en fase de validacion para predecir la
+formacion recurrente de calculos o el mejor tratamiento; asi pues, su trascendencia
+clinica es controvertida.
+3.3.3 Comentarios sobre los estudios analiticos
+3.3.3.1 Hiperparatiroidismo o hipercalcemia
+La finalidad de analizar el calcio en suero o plasma es identificar a los pacientes con
+hiperparatiroidismo u otros trastornos asociados a hipercalcemia. En caso de una
+concentracion alta de calcio (> 2,60 mmol/l), debe establecerse o descartarse un
+diagnostico de hiperparatiroidismo mediante analisis repetidos de calcio y evaluacion de
+la concentracion de hormona paratiroidea (8-13).
+3.3.3.2 Sospecha de calculos de acido urico
+Cuando no se ha realizado un analisis de calculos, la existencia de un calculo de acido
+urico se sospecha por una concentracion serica elevada de urato y un calculo que es
+radiotransparente. Aunque un calculo de acido urico suele ser invisible en una
+radiografia simple (RUV), se demuestra claramente en la TC.
+15 ACTUALIZACION EN ABRIL DE 2010
+3.3.3.3 Acidosis tubular renal
+Debe utilizarse una muestra de orina matutina al azar para medir el pH (14). Un pH
+> 5,8 en orina matutina en ayunas plantea la sospecha de una acidosis tubular renal
+(ATR) completa o incompleta (15). En la misma muestra de orina matutina en ayunas o
+al azar puede descartarse o confirmarse la presencia de bacteriuria y cistinuria (16).
+El objetivo de la adicion de la potasemia al programa analitico es obtener un mayor
+respaldo de un diagnostico de presunta ATR. La hipocitraturia hipopotasemica puede
+ser un motivo de fracaso terapeutico en los pacientes tratados con tiazidas.
+Es posible que sea necesario obtener un perfil de pH en los pacientes con calculos de
+acido urico y en los que presentan calculos calcicos complicados. Los principios de
+estos analisis se resumen en la tabla 12.
+Los resultados analiticos en los pacientes con ATR incompleta y completa se resumen
+en la tabla 13.
+Tabla 12: Estudios analiticos adicionales en los pacientes con litiasis calcica
+Perfil de pH (17)
+Determinaciones repetidas de pH durante el periodo de 24 horas
+• Han de obtenerse muestras frecuentes para la determinacion inmediata del pH con papel de pH o un
+electrodo de vidrio
+• Obtencion de muestras cada dos horas o, de no ser asi, segun proceda
+Carga acida (18-22)
+Esta prueba se lleva a cabo junto con la obtencion de muestras de sangre para demostrar si el paciente
+presenta un defecto de acidificacion completo o incompleto
+• Desayuno + comprimidos de cloruro de amonio (0,1 g/kg de peso corporal), beber 150 ml
+• 09.00 Recogida de orina y determinacion del pH, beber 150 ml
+• 10.00 Recogida de orina y determinacion del pH, beber 150 ml
+• 11.00 Recogida de orina y determinacion del pH, beber 150 ml
+• 12.00 Recogida de orina y determinacion del pH, beber 150 ml
+• 13.00 Recogida de orina y determinacion del pH, almuerzo
+Interpretacion
+Un pH de 5,4 o inferior indica una ausencia de acidosis tubular renal (ATR)
+Tabla 13: Resultados analiticos en los pacientes con acidosis tubular renal (ATR) distal completa o
+incompleta (14-22).
+Prueba
+• Sangre (pH)
+• Bicarbonato en plasma
+• Potasio en plasma/suero
+• Cloruro en plasma/suero
+• Calcio urinario
+• Fosfato urinario
+• Citrato urinario
+ATR incompleta
+Bajo
+Alto
+ATR completa
+16 ACTUALIZACION EN ABRIL DE 2010
+Normal
+Alto
+Bajo
+3.3.4 Bibliografia
+4. CARGA LITIASICA
+El tamano de un calculo (carga litiasica) puede expresarse de distintos modos. La forma
+mas habitual de expresar el tamano en la bibliografia consiste en utilizar el diametro
+mayor, es decir, la longitud del calculo medida en una radiografia simple. La superficie
+del calculo (SC) puede calcularse en la mayor parte de los casos a partir de su longitud
+(L) y anchura (a) mediante la formula siguiente (1):
+SC = L · a ·?· 0,25 (? = 3,14159)
+Para obtener un calculo rapido de la SC, vease la tabla A1 del apendice 2.
+Con el uso mas frecuente de TC es posible obtener una estimacion aun mejor del
+volumen del calculo (VC) combinando las medidas de longitud (L), anchura (a) y
+profundidad (p) mediante la formula:
+VC = L · a · p ·?· 0,167 (? = 3,14159)
+4.1 Bibliografia
+5. TRATAMIENTO DE LOS PACIENTES CON COLICO
+NEFRITICO
+5.1 Analgesia
+En los pacientes con un episodio agudo de litiasis, la medida terapeutica mas urgente
+suele ser la analgesia (tabla 14).
+Tabla 14: Analgesia en los pacientes con colico nefritico agudo
+Preferencia
+Medicamento
+GCC
+GR
+Citas bibliograficas
+Comentario
+Diclofenaco sodico
+Indometacina
+Ibuprofeno
+Clorhidrato de hidromorfona (+ atropina)
+Metamizol
+17 ACTUALIZACION EN ABRIL DE 2010
+Pentazocina
+Tramadol
+5.1.1 Tratamiento con antiinflamatorios no esteroideos (AINE)
+Los estudios clinicos han demostrado que los AINE (por ejemplo, diclofenaco)
+proporcionan un alivio eficaz en los pacientes con colicos nefriticos agudos (1-5).
+Ademas, el tratamiento con AINE reduce el indice de resistencia en los pacientes con
+colico nefritico (6).
+Se recomienda iniciar la analgesia con diclofenaco siempre que sea posible (tabla 15) y
+utilizar un medicamento alternativo cuando persista el dolor. Hidromorfona y otros
+opiaceos se acompanan de un mayor riesgo de vomitos.
+5.1.2 Prevencion de episodios recurrentes de colico nefritico
+En un estudio doble ciego y controlado con placebo, los episodios de dolor recurrente
+por colico nefritico fueron significativamente menores en los pacientes tratados con
+diclofenaco, 50 mg tres veces al dia, durante los 7 primeros dias. El efecto fue mas
+pronunciado en los cuatro primeros dias de tratamiento (7). En los pacientes con
+calculos ureterales en los que se preve una expulsion espontanea, los supositorios o
+comprimidos de diclofenaco sodico, 50 mg dos veces al dia, durante 3-10 dias, pueden
+ayudar a reducir la inflamacion y el riesgo de dolor recurrente.
+La expulsion del calculo puede facilitarse mediante la administracion de alfabloqueantes
+o, posiblemente, nifedipino (vease la seccion 9.8.1 del capitulo 9, Tratamiento expulsivo
+medico).
+Se indicara al paciente que filtre la orina con el fin de obtener un calculo para su
+analisis. La expulsion del calculo y el restablecimiento de la funcion renal normal deben
+confirmarse con metodos apropiados. Cuando no se logre el alivio del dolor mediante
+procedimientos medicos, ha de realizarse drenaje mediante endoprotesis o nefrostomia
+percutanea o mediante extraccion de los calculos.
+5.1.3 Efectos de diclofenaco sobre la funcion renal
+Diclofenaco puede afectar a la funcion renal en los pacientes con una funcion ya
+reducida; sin embargo, carece de efectos cuando los rinones funcionan con normalidad
+(GCC: 1b; GR: A) (8).
+Tabla 15: Recomendaciones y consideraciones en relacion con la analgesia del paciente con un colico
+nefritico o despues del mismo.
+Recomendaciones
+GCC
+GR
+Citas bibliograficas seleccionadas
+Comentario
+• El tratamiento debe iniciarse con un AINE
+• Diclofenaco sodico afecta a la FG en los pacientes con una funcion renal reducida, pero no en
+aquellos con una funcion renal normal
+18 ACTUALIZACION EN ABRIL DE 2010
+• El uso de diclofenaco sodico se recomienda como metodo para contrarrestar el dolor recurrente tras
+un episodio de colico ureteral
+FG = filtracion glomerular; AINE = antiinflamatorio no esteroideo.
+5.2 Expulsion espontanea de calculos
+La mayoria de los calculos ureterales se expulsan de manera espontanea. Para obtener
+mas informacion, veanse los capitulos 6 y 9 (9, 10).
+5.3 Tratamiento expulsivo medico (TEM)
+La facilitacion de la expulsion de calculos ureterales se comenta en el capitulo 9,
+seccion 9.8.1.
+5.4 Bibliografia
+6. INDICACIONES DE LA EXTRACCION ACTIVA DE CALCULOS
+(En relacion con los calculos ureterales, vease tambien el capitulo 9, especialmente
+la seccion 9.5)
+Es importante evaluar el tamano, la localizacion y la forma de los calculos en el
+momento de presentacion inicial, la probabilidad de expulsion espontanea, la presunta
+composicion de los calculos, los sintomas y la presencia de una infeccion urinaria u
+obstrucciones. Ademas, ha de determinarse la situacion medica y social del paciente, lo
+que comprende edad, profesion, comorbilidad y preferencias de tratamiento.
+En los calculos con un diametro superior a 6-7 mm esta indicada la extraccion. En los
+estudios se ha demostrado que los calculos renales asintomaticos originaran problemas
+clinicos con el tiempo (1).
+Los calculos pequenos (< 6-7 mm) en un caliz pueden causar dolor o molestias
+considerables (2-7). Estos calculos deben extraerse mediante una tecnica minimamente
+invasora. Un cuello calicial estrecho puede requerir dilatacion (tabla 16).
+Tabla 16: Indicaciones de la extraccion activa de calculos.
+Indicaciones
+GCC
+GR
+Citas bibliograficas seleccionadas
+• Cuando el diametro del calculo es ? 7 mm (debido a una tasa baja de expulsion espontanea)
+• Cuando no se logra un alivio suficiente del dolor
+• Cuando existe obstruccion por calculos acompanada de infeccion*
+• Riesgo de pionefrosis o sepsis urinaria*
+• En rinones unicos con obstruccion*
+• Obstruccion bilateral*
+19 ACTUALIZACION EN ABRIL DE 2010
+*La derivacion de la orina con un cateter de nefrostomia percutanea o la evitacion del calculo con una
+endoprotesis son requisitos minimos en estos pacientes y pueden ser procedimientos urgentes.
+Recomendacion
+GCC
+GR
+• Para la descompresion del sistema colector renal, los cateteres ureterales, las endoprotesis y los
+cateteres de nefrostomia percutanea son, aparentemente, igual de eficaces
+6.1 Bibliografia
+7. ELIMINACION ACTIVA DE CALCULOS LOCALIZADOS EN EL
+RINON
+7.1 Litotricia extracorporea mediante ondas de choque (LEOC)
+La introduccion de la LEOC en los primeros anos del decenio de 1980 cambio
+radicalmente el tratamiento de los calculos en las vias urinarias; al mismo tiempo, el
+tratamiento de los calculos renales se ha visto revolucionado por el desarrollo de nuevos
+litotritores y por modificaciones de las indicaciones y principios terapeuticos. Los
+litotritores modernos son mas pequenos y suelen ir incorporados a mesas
+urorradiologicas, de modo que permiten no solo la aplicacion de LEOC, sino tambien
+otros procedimientos diagnosticos y complementarios asociados a la LEOC. Los
+litotritores de ultima generacion son al menos tan eficaces como los primeros, pero
+mucho mas baratos y versatiles.
+La LEOC tiene algunas contraindicaciones. Entre ellas figuran:
+• embarazo
+• coagulacion de la sangre no controlada
+• infecciones urinarias no controladas (1, 2)
+• aneurismas aorticos o de las arterias renales cerca del calculo tratado
+• malformaciones oseas graves
+• obesidad grave
+La LEOC puede eliminar > 90 % de los calculos en los adultos (3-5). La tasa de exito de
+la LEOC depende de:
+• eficacia del litotritor
+• localizacion de la masa litiasica (pelvica o calicial) y composicion (dureza) de los
+calculos
+20 ACTUALIZACION EN ABRIL DE 2010
+• habito corporal del paciente
+• realizacion de la LEOC (buenas practicas, vease la seccion 7.1.2.5)
+Todos estos factores tienen una influencia importante en la tasa de retratamiento y el
+resultado final de la LEOC.
+Han de utilizarse otras tecnicas distintas para tratar los calculos menos favorables para
+la LEOC, como los calculos grandes y duros (veanse las secciones 7.2 a 7.5) (3-17).
+7.1.2 Factores que influyen en el resultado de la LEOC
+En los estudios sobre la LEOC para eliminar calculos renales se han comunicado tasas
+de ausencia de calculos del 66 %-99 % en pacientes con calculos ? 20 mm de diametro
+y del 45 %-60 % con calculos > 20 mm de diametro (18-20). Se observaron resultados
+parecidos con el litotritor Dornier HM3; las tasas de ausencia de calculos fueron del
+75 %-89 % en los calculos con un diametro ? 20 mm y del 39 %-63 % en aquellos con
+un diametro ? 20 mm (21).
+7.1.2.1 Endoprotesis
+Una endoprotesis en doble J reduce las complicaciones obstructivas e infecciosas que
+pueden aparecer tras el uso de LEOC para tratar calculos renales grandes.
+El uso sistematico de endoprotesis internas antes de la LEOC no mejora el resultado en
+cuanto a tasa de ausencia de calculos (GCC: 1b; GR: A) (23). Sin embargo, pueden
+pasar particulas litiasicas facilmente a lo largo de las endoprotesis mientras la orina
+fluye por y alrededor de la endoprotesis. Esto evita habitualmente la obstruccion y la
+perdida de contraccion ureteral. En ocasiones, las endoprotesis no son eficaces para
+drenar material purulento o mucoide, por lo que conlleva un riesgo de pielonefritis
+obstructiva. Cuando la fiebre dura varios dias, se necesita un tubo de nefrostomia
+percutanea, aun cuando la ecografia no revele dilatacion.
+Recomendacion relativa al uso de endoprotesis
+GCC
+GR
+• La colocacion de una endoprotesis interna antes de la LEOC se recomienda cuando van a tratarse
+calculos con un diametro ? 20 mm (~300 mm2) ubicados en el rinon (22)
+7.1.2.2 Localizacion de la masa litiasica
+La velocidad de eliminacion de los calculos ubicados en los calices inferiores es menor
+que la de los localizados en otras partes del rinon. La velocidad de eliminacion de los
+calculos ubicados en el polo superior es mas rapida que la de los localizados en el polo
+inferior. Muchos calculos renales se localizan en el caliz inferior. La mejor manera de
+tratar estos calculos es discutible. La mayoria de los fragmentos residuales se alojan en
+el sistema calicial inferior. Estos calculos se originan en los calices del polo inferior o
+gravitan hacia alli desde otros lugares. Sigue sin saberse por que los calculos se
+desarrollan preferentemente en los calices del polo inferior, aunque la acumulacion de
+fragmentos en esta ubicacion se debe con toda probabilidad a la accion de la gravedad.
+21 ACTUALIZACION EN ABRIL DE 2010
+Hasta en el 35 % de los pacientes tratados con LEOC no se elimina completamente el
+material litiasico disgregado de los calices inferiores. Mediante el uso de observaciones
+geometricas de la anatomia del caliz inferior se han hecho intentos de explicar la
+eliminacion incompleta de los fragmentos y de predecir el resultado del tratamiento con
+LEOC; sin embargo, los resultados son contradictorios.
+En ausencia de una explicacion geometrica, se ha comprobado que el tamano de los
+calculos es el factor mas importante (24-28). Aunque la geometria del sistema calicial
+inferior es importante en la eliminacion de los fragmentos, la potencia discriminativa no
+es suficientemente alta para predecir el resultado de la LEOC ni para ayudar a
+seleccionar metodos alternativos de eliminacion de calculos (29). La fisiologia calicial
+es otro factor importante (30, 31).
+Varios autores han demostrado que puede obtenerse una mayor tasa de ausencia de
+calculos con la nefrolitotomia percutanea (NLP), sobre todo cuando los calculos son
+grandes (diametro > 20 mm o SC > 300 mm2). Ha de tenerse en cuenta la morbilidad
+relacionada con la NLP. En los calculos con un diametro ? 20 mm (superficie
+aproximada de 300 mm2) se recomienda la LEOC, a pesar de la menor velocidad de
+eliminacion de fragmentos.
+Una comparacion multicentrica aleatorizada entre LEOC y extraccion ureteroscopica de
+calculos del sistema calicial inferior no logro demostrar un resultado significativamente
+mejor con la ureteroscopia (32) (GCC: 1b; GR: A).
+Conclusion
+GCC
+GR
+• Una comparacion entre LEOC y extraccion ureteroscopica de calculos del sistema calicial inferior no
+logro demostrar diferencias (32)
+7.1.2.3 Carga litiasica total
+Aunque los problemas relacionados con la eliminacion de calculos aumentan con el
+volumen de los mismos, no hay un tamano critico claro. La mayoria de los autores
+consideran que un diametro de 20 mm es el limite superior practico para aplicar LEOC,
+aunque en algunos centros se tratan calculos mas grandes con LEOC de manera
+satisfactoria (33, 34).
+Resulta dificil ofrecer recomendaciones especificas sobre la eliminacion de calculos
+renales, ya que aparecen fragmentos residuales con calculos < 20 mm (300 mm2) de
+anchura, mientras que calculos muy grandes pueden disgregarse con tan solo una sesion
+de LEOC. En esta guia clinica se recomienda la LEOC como primera opcion de
+tratamiento de los calculos con un diametro ? 20 mm (300 mm2). En los calculos con un
+diametro ? 20 mm (300 mm2) podria contemplarse la NLP, aunque la LEOC sigue
+siendo una opcion.
+En los calculos con una superficie > 40 x 30 mm (1.200 mm2), el tratamiento
+combinado con NLP y LEOC (estrategia en “sandwich”) ha deparado tasas de exito del
+71 %-96 % con morbilidad y complicaciones aceptables. El uso de LEOC tras una NLP
+22 ACTUALIZACION EN ABRIL DE 2010
+parece mas eficaz que el uso de NLP tras una LEOC. El riesgo de complicaciones del
+tratamiento combinado o la NLP aislada es mayor que el de la LEOC aislada. En caso
+de un solo rinon, quiza sea posible probar la LEOC en monoterapia en primer lugar, aun
+cuando el calculo tenga una superficie > 40 x 30 mm (1.200 mm2) (35).
+7.1.2.4 Composicion y dureza del calculo
+La composicion de un calculo es un factor importante en su disgregacion (36) y en la
+consiguiente eliminacion de los fragmentos. Los calculos de acido urico y oxalato
+calcico dihidratado tienen un mejor coeficiente de fragmentacion que los de oxalato
+calcico monohidratado y cistina; las tasas de exito en estos dos grupos de calculos
+fueron del 38 %-81 % y 60 %-63 %, respectivamente. En los calculos de cistina
+< 15 mm, la tasa de ausencia de calculos fue de aproximadamente el 71 %; en los
+calculos > 20 mm, esta tasa disminuyo al 40 % (13). En la actualidad no se recomienda
+la LEOC en monoterapia en los calculos de cistina > 15 mm.
+La medicion de la densidad media del calculo mediante tomografia computarizada sin
+contraste (TCSC) desempena una funcion importante para predecir la disgregacion de
+los calculos. Los calculos con una densidad media > 1.000 UH tienen menos
+probabilidades de disgregarse (37).
+Recomendacion
+GCC
+GR
+• Los calculos con una densidad media > 1.000 UH en la TCSC tienen menos probabilidades de
+disgregarse (37).
+El uso de la LEOC en monoterapia para tratar calculos calcicos o de estruvita grandes
+depara tasas razonables de eliminacion de los calculos y complicaciones (38).
+Aproximadamente el 1 % de los pacientes tratados por calculos en las vias urinarias
+mediante LEOC tiene calculos de cistina. Un total del 76 % de los calculos de cistina
+tiene un diametro maximo > 25 mm, mientras que tan solo el 29 % de todos los
+pacientes con calculos presenta calculos de este tamano. Se llega a necesitar un 66 %
+mas de sesiones de LEOC y ondas de choque para conseguir resultados satisfactorios
+con calculos grandes de cistina que con otros tipos de calculos (39). En lugar de
+multiples sesiones de LEOC, la NLP (posiblemente combinada con LEOC) es un
+tratamiento eficaz de los demas calculos de cistina (39, 40). Es importante destacar que
+los calculos lisos de cistina son mucho mas sensibles a las ondas de choque que los
+rugosos (41).
+7.1.2.5 Habito corporal del paciente
+Anomalias anatomicas
+Las anomalias anatomicas pueden influir en el resultado de la LEOC. Las
+malformaciones del sistema colector renal pueden inducir la formacion de calculos, ya
+que alteran el mecanismo de eliminacion de orina, por lo que dificultan el paso de los
+fragmentos de calculos. En caso de anomalias anatomicas, a menudo se necesitan
+procedimientos complementarios (42-48).
+23 ACTUALIZACION EN ABRIL DE 2010
+En 32.255 de 35.100 (92 %) pacientes tratados por calculos renales mediante LEOC se
+registro una disgregacion satisfactoria (49-79). La tasa de ausencia de calculos en estos
+pacientes fue del 70 %, con retratamientos en el 10,5 % (49-79). Cuando se analizaron
+por separado los resultados comunicados durante los ultimos 7 anos, las tasas de
+ausencia de calculos del 41 %-90 % se correspondieron con las descritas con el litotritor
+Dornier HM3 y con los litotritores de segunda y tercera generacion. El resultado
+variable podria explicarse por la seleccion de los pacientes, la localizacion de los
+calculos, la frecuencia de sesiones repetidas de tratamiento, el uso de procedimientos
+complementarios y la experiencia del cirujano. En un estudio prospectivo y aleatorizado
+en el que se compararon los litotritores Dornier HM3 y Litostar Plus, las tasas de
+ausencia de calculos fueron del 89 % y 87 %, respectivamente (78). Aunque la
+capacidad disgregante varia considerablemente entre los dispositivos, los litotritores de
+ultima generacion pueden tratar los calculos renales con eficacia.
+Obesidad
+En los pacientes obesos, es decir, aquellos con un indice de masa corporal (IMC)
+elevado, los calculos tienen menos probabilidades de desintegrarse que en los que
+presentan menos sobrepeso (80). En un grupo de pacientes sin calculos, el IMC medio
+fue de 26,9 +/- 0,5 frente a 30,8 +/- 0,9 en un grupo con fragmentos residuales (p <
+0,05). Los principales factores que determinan un peor resultado en los pacientes obesos
+son una peor identificacion del calculo en las radiografias y la ecografia y un aumento
+de la distancia piel-calculo (81). Es necesario correlacionar la distancia piel-calculo,
+medida mediante TCSC, con la distancia focal de apertura, que varia con los diferentes
+tipos de litotritores. Debe calcularse la distancia piel-calculo optima (o maxima) para
+cada tipo de litotritor.
+Conclusion: efecto de la obesidad sobre la eliminacion de calculos con LEOC
+GCC
+GR
+• La distancia piel-calculo es un factor importante a la hora de predecir el resultado del tratamiento con
+LEOC (80, 81)
+7.1.2.6. Realizacion de la LEOC: buenas practicas
+El resultado optimo del tratamiento con LEOC (tasa elevada de ausencia de calculos,
+tasa baja de retratamiento, pocos indicios de complicaciones y procedimientos
+complementarios) depende de numerosos factores. Algunos de estos factores son mas
+importantes de lo que parecen a primera vista.
+Los resultados del tratamiento dependen del cirujano, de modo que los mejores
+resultados los obtiene un urologo que ha tratado a un mayor numero de pacientes, ha
+aplicado un numero elevado de descargas y ha contado con el mayor tiempo de
+radioscopia (6).
+Recomendacion
+GCC
+GR
+24 ACTUALIZACION EN ABRIL DE 2010
+• Un control radioscopico y ecografico cuidadoso durante el tratamiento resulta esencial
+Tambien es importante cerciorarse de que existe un acoplamiento acustico adecuado
+entre la almohadilla del cabezal de tratamiento y la piel del paciente. Un defecto (bolsa
+de aire) en el gel de acoplamiento reflejara el 99 % de las ondas de choque, de modo
+que un defecto de tan solo el 2 % en la capa gel de acoplamiento reduce la
+fragmentacion de los calculos en un 20 %-40 % (82). El gel ecografico es,
+probablemente, el mejor producto disponible de acoplamiento para la litotricia (83). A
+fin de reducir las bolsas de aire, el gel ecografico debe introducirse en el colchon de
+agua directamente desde el envase en lugar de a mano (84).
+Recomendacion
+GCC
+GR
+• Los defectos (bolsas de aire) en el gel de acoplamiento reducen la disgregacion de los calculos (82)
+Durante el tratamiento se requiere un control minucioso del dolor para limitar los
+movimientos inducidos por el dolor y las excursiones respiratorias excesivas.
+Recomendacion
+GCC
+GR
+• Una analgesia adecuada mejora los resultados del tratamiento debido a la limitacion de los
+movimientos inducidos y las excursiones respiratorias excesivas
+El numero de ondas de choque que pueden aplicarse en cada sesion depende del tipo de
+litotritor y de la potencia de las ondas de choque. No hay consenso acerca del numero
+maximo de ondas de choque. Sin embargo, a medida que aumenta la frecuencia de las
+ondas de choque, asi lo hace el dano tisular (85). La disgregacion de los calculos
+aumenta con frecuencias mas bajas (86, 87). Para mejorar la fragmentacion de los
+calculos y prevenir la lesion renal, el tratamiento debe iniciarse con una configuracion
+energetica mas baja, con un aumento escalonado de la potencia (86).
+Recomendacion
+GCC
+GR
+• La frecuencia optima de las ondas de choque es de 1,0 Hz (87)
+25 ACTUALIZACION EN ABRIL DE 2010
+Sesiones repetidas de tratamiento
+La potencia disgregante de la LEOC es, en general, muy buena. Hay dudas sobre el uso
+de la LEOC en calculos grandes. Esto se debe a que pueden necesitarse tratamientos
+repetidos debido a los fragmentos residuales, que son frecuentes, sobre todo con las
+ultimas generaciones de litotritores, que poseen volumenes focales mas pequenos. Es
+importante limitar el numero de ondas de choque y la potencia utilizada en los
+tratamientos repetidos para evitar danar los tejidos renales y las complicaciones
+hemorragicas (vease a continuacion).
+Recomendacion
+GCC
+GR
+• En caso de calculos infecciosos o bacteriuria, deben administrarse antibioticos antes de la LEOC y
+mantenerse durante al menos 4 dias despues del tratamiento
+No existen reglas sobre la frecuencia con la que pueden repetirse las sesiones de LEOC.
+Sin embargo, el intervalo entre dos sesiones consecutivas debe ser mayor en la litotricia
+electrohidraulica y electromagnetica que en los tratamientos en los que se emplean
+equipos piezoelectricos. El riesgo de danar el tejido renal es maximo con los
+tratamientos dirigidos hacia los calculos localizados en el rinon.
+Recomendacion
+GCC
+GR
+• En los calculos ubicados en el ureter, en lugar de en el rinon, suelen ser aceptables intervalos mas
+cortos entre las sesiones de tratamiento. La experiencia clinica respalda esta idea
+7.1.2.7 Complicaciones
+Cuando la LEOC se utiliza para tratar calculos renales grandes (es decir, diametro >
+20 mm o superficie > 300 mm2), algunas complicaciones frecuentes son:
+• dolor
+• hidronefrosis debida a “calle litiasica”
+• fiebre
+• sepsis de origen urinario ocasional, debido a dificultades para expulsar las particulas
+litiasicas, especialmente cuando la disgregacion no resulta suficiente (35, 38, 88-91).
+7.1.3 Bibliografia
+26 ACTUALIZACION EN ABRIL DE 2010
+7.2 Extraccion percutanea de calculos renales (NLP)
+La mayor parte de los calculos renales pueden extraerse mediante cirugia percutanea.
+Sin embargo, en los calculos pequenos y medianos (< 20 mm), la LEOC tiene la ventaja
+de una menor morbilidad.
+Puede utilizarse una RUV (radiografia simple de abdomen de rinones, ureteres y vejiga)
+y una urografia intravenosa (UIV) o tomografia computarizada (TC) antes de la
+intervencion para planificar el acceso y determinar el probable exito. Esto incluye, por
+ejemplo, si los calculos responderan mal a la LEOC (por ejemplo, calculos de cistina,
+oxalato calcico monohidratado o brucita) o si es improbable que se expulsen los
+fragmentos (por ejemplo, calculos grandes, calculos ubicados en diverticulos caliciales
+o en rinones en herradura o calculos localizados en el polo inferior).
+Se recomienda practicar una ecografia y radioscopia del rinon y las estructuras
+circundantes antes de la intervencion para:
+• determinar el mejor lugar de acceso y la posicion del calculo en el rinon (anterior o
+posterior)
+• garantizar que los organos adyacentes al rinon (por ejemplo, bazo, higado, intestino
+grueso, pleura o pulmones) no se encuentran dentro del trayecto percutaneo previsto
+(1, 2).
+Aunque la NLP se ha realizado durante decenios en decubito prono, se ha demostrado
+que tambien es viable con el paciente en decubito supino (3). En comparacion con el
+decubito prono, el decubito supino tiene las ventajas principales de:
+• acceso retrogrado mas facil (para la colocacion de cateteres ureterales o un
+tratamiento anterogrado-retrogrado simultaneo)
+• mejor control del anestesiologo (4, 5).
+La puncion percutanea puede ser mas sencilla si se utiliza un cateter ureteral (globo)
+para dilatar y opacificar el sistema colector. Este cateter tambien evita que los
+fragmentos se introduzcan en el ureter. La puncion puede efectuarse bajo control
+combinado con ecografia y radiografias o bajo radioscopia biplanar. La ecografia
+facilita la identificacion de organos proximos y, por consiguiente, evita danarlos (6, 7).
+En casos excepcionales, cuando hay anomalias anatomicas, el acceso renal guiado por
+TC puede ser una opcion (8).
+El lugar de acceso mas empleado es el caliz dorsal del polo inferior. En el acceso menos
+traumatico, el lugar de puncion en la piel se situa en la extension del eje longitudinal del
+caliz diana y la puncion atraviesa la papila. La ausencia de vasos sanguineos
+importantes hace que la hemorragia sea minima. Se trata del punto de acceso mas
+seguro porque usa el infundibulo como conducto hacia la pelvis. Un acceso subcostal o
+supracostal del polo superior se ha utilizado a menudo con buenos resultados para tratar
+calculos coraliformes.
+La dilatacion del sistema renal es posible mediante el sistema de Amplatz o con
+dilatadores con globo o metalicos; la seleccion depende de la experiencia, la
+27 ACTUALIZACION EN ABRIL DE 2010
+disponibilidad y los costes (9). Aunque los nefroscopios habituales tienen un eje de
+calibre 24-30 F, el ‘miniinstrumental percutaneo’ tiene calibres menores, de 12-20 F,
+por lo que podria deparar una tasa mas baja de complicaciones relacionadas con
+dilatacion de las vias (por ejemplo, hemorragia o traumatismo renal). Dado que el
+tiempo de tratamiento aumenta con el tamano de los calculos, este metodo solo se
+recomienda en los calculos con un diametro < 20 mm (10). No se ha determinado la
+utilidad del miniinstrumental percutaneo en adultos, pero es el metodo de eleccion para
+la extraccion percutanea de calculos en ninos (11-13).
+En los calculos del polo inferior, la LEOC, la NLP y la ureteronefroscopia flexible son
+procedimientos rivales con diferentes tasas de exito y complicaciones y aceptacion por
+los pacientes (14, 16) (GCC: 1b; GR: A).
+Los calculos pueden extraerse de forma inmediata o tras haber sido disgregados con
+sondas ultrasonicas, laser o hidroneumaticas. La eliminacion continua de pequenos
+fragmentos mediante aspiracion o extraccion es mejor que la disminucion del numero de
+fragmentos residuales. En los casos complicados, o cuando se precisa una segunda
+intervencion, se utiliza un tubo de nefrostomia con globo autorretentivo para taponar la
+via y mantener el acceso al sistema colector al final del procedimiento. En los casos no
+complicados, la nefrolitotomia percutanea sin tubos, con o sin aplicacion de una
+endoprotesis selladora o en doble J, representa una alternativa segura (13, 16-19) (GCC:
+1b; GR: A).
+Recomendaciones relativas al uso de NLP en la eliminacion de calculos
+GCC
+GR
+• En los calculos del polo inferior, la LEOC, la NLP y la ureteronefroscopia flexible son
+procedimientos rivales con diferentes tasas de exito y complicaciones y aceptacion por los pacientes
+(14, 15)
+• En los casos no complicados, la nefrolitotomia percutanea sin tubos, con o sin aplicacion de una
+endoprotesis selladora o en doble J, representa una alternativa segura (13, 16)
+7.2.1 Complicaciones
+Como ocurre con la cirugia abierta, las tecnicas percutaneas presentan diferentes grados
+de dificultad. El procedimiento tiene mas probabilidades de ser dificil cuando las
+caracteristicas anatomicas limitan el espacio disponible para la puncion inicial, la
+dilatacion y la instrumentacion, como sucede en caso de calculos ubicados en
+diverticulos, calculos que rellenan completamente el caliz diana o una carga litiasica
+elevada por calculos coraliformes completos o parciales. En estos casos, tan solo un
+cirujano con experiencia debe practicar la intervencion.
+Los puntos clave a recordar acerca de las complicaciones relacionadas con la NLP son:
+• Las lesiones de los organos adyacentes son complicaciones graves (pero raras) que
+pueden evitarse mediante una puncion guiada por ecografia.
+• La sepsis y el ‘sindrome de reseccion transuretral’ indican una tecnica incorrecta
+que ha provocado una presion elevada en el interior del sistema colector durante la
+28 ACTUALIZACION EN ABRIL DE 2010
+manipulacion. Estos problemas pueden evitarse mediante el uso de instrumentos de
+flujo continuo o un sistema de Amplatz (1, 13).
+• La hemorragia se evita, en general, mediante un acceso orientado anatomicamente,
+como se ha descrito anteriormente.
+• Una hemorragia importante durante el procedimiento obliga a interrumpir la
+operacion, a colocar un tubo de nefrostomia y a una intervencion secundaria mas
+adelante. En la mayoria de los casos, la hemorragia venosa se detiene cuando se
+pinza el tubo de nefrostomia durante unas horas.
+• Una hemorragia secundaria persistente o diferida esta causada por una lesion arterial
+y puede controlarse mediante una embolizacion angiografica supraselectiva. La
+nefrectomia rara vez resulta necesaria.
+7.2.2 Bibliografia
+7.3 Extraccion retrograda de calculos (ureterales y) renales (cirugia intrarrenal
+retrograda [CIRR])
+En los ultimos 20 anos, la ureteronefroscopia (UNS) ha modificado drasticamente el
+tratamiento de los calculos renales y ahora se emplea ampliamente en los centros
+urologicos de todo el mundo. Sin embargo, la UNS es una tecnica mas invasora que la
+LEOC, por lo que el tratamiento de eleccion de los calculos ureterales resulta
+controvertido.
+En los calculos renales, la LEOC y la NLP son las opciones terapeuticas primarias
+recomendadas. La UNS flexible ofrece una alternativa terapeutica eficaz, especialmente
+para los calculos del polo inferior con un diametro de hasta 20 mm. A pesar de la mayor
+disponibilidad y las mejoras de la UNS flexible, todavia no se ha determinado su
+utilidad para eliminar calculos renales. Este ultimo procedimiento se denomina cirugia
+intrarrenal retrograda (CIRR).
+7.3.1 Tecnica endoscopica convencional
+La tecnica endoscopica basica se ha normalizado (1-3) (tabla 17).
+Tabla 17: Tecnica convencional para el procedimiento endoscopico basico.
+• Tiene que haber un equipo de radioscopia disponible en el quirofano
+• Las pruebas de imagen preoperatorias de las vias urinarias confirman la localizacion del calculo e
+identifican anomalias anatomicas
+• Se recomienda el uso de un fiador de seguridad (generalmente de punta blanda, no hidrofilo y de
+0,089 cm)
+• Los ureteroscopios flexibles se introducen con mayor facilidad mediante otro fiador o a traves de una
+canula de acceso ureteral, aunque los de ultima generacion permiten su paso ‘desnudo’ en manos
+expertas
+• La litotricia intracorporea endoscopica puede realizarse mediante litotricia laser (Ho:YAG), balistica
+(= neumatica), ultrasonica y electrohidraulica (LEH) en determinadas situaciones. Los dispositivos
+de litotricia se describen en el apendice 1
+29 ACTUALIZACION EN ABRIL DE 2010
+• Los calculos y fragmentos pequenos se recuperan mejor con una cesta o con pinzas (6-9)
+• La colocacion de una endoprotesis al final del procedimiento es opcional y discutible (10-16)
+Recomendacion
+GCC
+GR
+• Antes de la ureteroscopia, debe administrarse profilaxis antibiotica para garantizar una orina esteril
+(4, 5)
+• No debe realizarse una extraccion de calculos con cesta sin visualizacion endoscopica de los mismos
+(extraccion con cesta a ciegas) (vease la seccion 9)
+7.3.2 Evaluacion de diferentes dispositivos
+7.3.2.1 Uteroscopios
+Hay ureteroscopios rigidos y flexibles disponibles. En la mayoria de los casos, la
+miniaturizacion (y la colocacion previa habitual de una endoprotesis en el ureter) evitara
+la necesidad de dilatar el ureter intramural y las complicaciones asociadas (21-23). Los
+diametros de punta pequenos (5,0-7,5 F) permiten una progresion mas facil y segura de
+ureteroscopios rigidos hasta el ureter proximal.
+Los ureteroscopios flexibles (5-7,5 F) son adecuados para acceder a la parte superior del
+ureter y el sistema colector renal, sin dilatacion del ureter intramural en la mayoria de
+los casos (3, 24-27). En la porcion inferior del ureter, un ureteroscopio flexible resulta
+menos apropiado debido a su tendencia a retroceder y caer en la vejiga. Los
+endoscopios actuales permiten mayores deflexiones de la punta y son mas duraderos
+que los de una generacion mas antigua (28-30).
+7.3.2.2 Dispositivos de disgregacion
+Los dispositivos de disgregacion se exponen en el apendice 1. La litotricia con laser de
+holmio:itrio-aluminio-granate (Ho:YAG) es un metodo fiable para tratar los calculos
+urinarios, con independencia de su dureza (31-34), y es el metodo de eleccion cuando se
+lleva a cabo una UNS flexible (3, 34-37).
+Recomendacion
+GCC
+GR
+• La litotricia con laser de Ho:YAG es el metodo de eleccion cuando se realiza una UNS flexible (3,
+34-37)
+Una fibra laser de 365 ?m es la mejor opcion en caso de calculos ureterales. La fibra de
+200 ?m preserva la deflexion de la punta de UNS flexibles y permite la fragmentacion
+de calculos intracaliciales (38). Si se manipula con precaucion, la litotricia laser es
+segura; sin embargo, los efectos secundarios importantes son mas frecuentes con la
+litotricia electrohidraulica (LEH) (39-43). En los calculos ureterales distales, la litotricia
+con Ho:YAG depara mejores resultados de ausencia de calculos al cabo de 3 meses que
+la LEH (97 % frente al 87 %, respectivamente) (39).
+30 ACTUALIZACION EN ABRIL DE 2010
+Los litotritores balisticos (neumaticos o electroneumaticos) son utilizables en un
+ureteroscopio semirrigido. Deparan excelentes tasas de fragmentacion (90 %-96 %)
+cuando puede alcanzarse el calculo con un ureteroscopio adecuado. Las principales
+ventajas de este tipo de dispositivo son su bajo coste y su manipulacion sencilla y
+segura (44-46). Sin embargo, es bastante posible la migracion del calculo durante la
+litotricia (47, 48).
+7.3.2.3 Cestas y pinzas
+Recomendacion
+GCC
+GR
+• Las cestas de nitinol preservan la deflexion de la punta de los UNS flexibles y el diseno sin punta
+reduce el riesgo de lesion mucosa (38). Las cestas de nitinol son las mas adecuadas para uso en UNS
+flexibles
+Las cestas de nitinol son mas vulnerables que las de acero inoxidable. La litotrica laser y
+la LEH pueden romper los cables de la cesta (49, 50).
+7.3.2.4 Dilatacion, canulas de acceso ureteral y colocacion de endoprotesis
+Durante los ultimos anos se han realizado intentos de modificar la tecnica habitual de
+dilatacion y colocacion de endoprotesis. El uso de ureteroscopios finos ha provocado
+una disminucion de la dilatacion (0 %-40 %), del tiempo quirurgico y de la colocacion
+postoperatoria de endoprotesis ureterales.
+Actualmente, se emplean mucho las canulas de acceso ureteral para facilitar la
+manipulacion retrograda en el ureter proximal y el rinon. Las canulas de acceso
+disponibles (9-16 F) tienen una superficie hidrofila y se introducen a traves de un fiador
+con la punta situada en el ureter proximal. El tiempo quirurgico puede reducirse en el
+caso de cargas litiasicas elevadas en las que se necesitan varios pases por los ureteres
+(51-53). Otra ventaja consiste en mantener un sistema de irrigacion a baja presion
+mediante un flujo continuo por la canula (54, 55). La primera serie de seguimiento
+indica la existencia de una tasa baja de estenosis ureterales, equivalente a la de los UNS
+sin canula (56).
+Recomendacion
+GCC
+GR
+• La colocacion de endoprotesis despues de una UNS no complicada es opcional (vease tambien el
+capitulo 9)
+Varios estudios prospectivos aleatorizados han revelado que la colocacion sistematica
+de endoprotesis despues de una UNS no complicada quiza no sea necesaria (10-16,
+57-60). La colocacion de endoprotesis ureterales se asocia a menores sintomas de las
+vias urinarias inferiores y dolor que pueden, aunque solo sea de forma transitoria,
+31 ACTUALIZACION EN ABRIL DE 2010
+reducir la calidad de vida (58-64). Ademas, las complicaciones relacionadas con la
+colocacion de endoprotesis ureterales comprenden:
+• migracion de la endoprotesis
+• infeccion urinaria
+• rotura
+• incrustacion
+• obstruccion.
+Las endoprotesis ureterales tambien aumentan el coste global de la UNS. A menos que
+se acople una cuerda de traccion al extremo distal de la endoprotesis, se precisa una
+cistoscopia secundaria para retirar la endoprotesis (13).
+Las indicaciones de la colocacion de endoprotesis tras la finalizacion de una UNS son:
+• lesion ureteral
+• estenosis
+• rinon unico
+• insuficiencia renal
+• carga litiasica residual elevada.
+7.3.3 Resultados clinicos (calculos renales)
+Los ureteronefroscopios de ultima generacion permiten el acceso a casi todos los calices
+renales. Junto con la litotricia laser, las canulas de acceso ureteral y los instrumentos de
+recuperacion de nitinol, los ureteronefroscopios permiten extraer la mayor parte de los
+calculos. Las tasas de ausencia de calculos para los calculos ? 1,5 cm son del
+50 %-80 % (51, 74-78); tambien pueden tratarse calculos mas grandes con exito.
+Recomendacion
+GCC
+GR
+• Se ha demostrado que la UNS flexible es un tratamiento eficaz de los calculos resistentes a la LEOC
+(79-80)
+La UNS flexible no se recomienda como tratamiento de primera linea de los calculos
+renales y no hay datos validos que respalden esta recomendacion. Sin embargo, dado
+que el uso de la LEOC en los calculos del polo inferior depara resultados desfavorables,
+la UNS flexible podria ser un tratamiento fiable de primera linea para los calculos del
+polo inferior ? 1,5 cm (69-73).
+32 ACTUALIZACION EN ABRIL DE 2010
+Algunos autores han comunicado que la combinacion de UNS flexible con LEOC o
+NLP mejora las tasas de ausencia de calculos (81, 82). El uso simultaneo de UNS
+flexible y NLP podria ofrecer una estrategia interesante para lograr una ausencia
+completa de calculos despues de tan solo un procedimiento y evitar varios trayectos
+percutaneos. Sin embargo, este metodo requiere una experiencia y un equipamiento
+importantes, por lo que no se utiliza de forma sistematica.
+7.3.4 Complicaciones
+En un metaanalisis publicado por el grupo de guias clinicas de la EAU-AUA se han
+evaluado las complicaciones mas importantes de sepsis, calle litiasica, estenosis, lesion
+ureteral e infeccion urinaria (IU). Para obtener mas detalles, vease la tabla 5, seccion
+9 (65, 66). La mayoria de las perforaciones observadas durante la intervencion se tratan
+con exito con la colocacion de una endoprotesis durante aproximadamente 2 semanas
+(46, 83, 85).
+La UNS puede llevarse a cabo de forma segura en los pacientes en quienes no resulta
+seguro interrumpir la administracion de anticoagulantes (42). Ademas, el exito de la
+UNS no se ve afectado por el habito corporal del paciente. Los pacientes con obesidad
+morbida pueden ser tratados con unas tasas de exito y complicaciones similares a las de
+la poblacion general (88, 89) y la UNS se ha utilizado de forma segura durante el
+embarazo (90-91). Sin embargo, la UNS debe limitarse a pacientes cuidadosamente
+seleccionados. Por ultimo, en determinados casos, la UNS puede emplearse con
+seguridad para tratar calculos ureterales bilaterales de forma simultanea (92, 93).
+Recomendacion
+GCC
+GR
+• La UNS puede utilizarse cuando la LEOC se encuentra contraindicada o resulta poco aconsejable
+7.3.5 Conclusiones
+• La UNS flexible constituye un tratamiento eficaz para los calculos renales
+resistentes a la LEOC.
+• Se requieren nuevos estudios para determinar si la UNS flexible puede ser un
+tratamiento de primera linea de la litiasis renal.
+• Dependiendo del tamano y la localizacion, la LEOC y la NLP son, actualmente,
+procedimientos de primera eleccion.
+7.3.6 Bibliografia
+7.4 Cirugia abierta para la extraccion de calculos renales
+Con los avances en la LEOC y la cirugia endourologica (es decir, UNS y NLP), se han
+reducido sustancialmente las indicaciones de la cirugia abierta de calculos. Los centros
+33 ACTUALIZACION EN ABRIL DE 2010
+con equipamiento, pericia y experiencia en el tratamiento quirurgico de los calculos
+renales describen que se precisa cirugia abierta en el 1,0 %-5,4 % de los casos (1-5).
+La mayoria de los casos que requieren cirugia abierta consisten en situaciones litiasicas
+dificiles, por lo que los urologos deben mantener sus conocimientos, destreza y
+experiencia en las tecnicas quirurgicas renales y ureterales abiertas. Sin embargo,
+debido a las diferentes modalidades terapeuticas disponibles actualmente para el
+tratamiento quirurgico de los calculos, puede ser discutible si una operacion abierta
+resulta apropiada en un caso concreto. En esta guia clinica se ofrecen unos principios
+generales sobre la cirugia abierta basados en un consenso de opiniones derivadas de la
+experiencia y teniendo en cuenta las limitaciones tecnicas de estrategias alternativas
+menos cruentas.
+Una intervencion quirurgica abierta puede ser preferible cuando el volumen principal
+del calculo se encuentra localizado perifericamente en los calices, especialmente cuando
+podrian necesitarse varios accesos percutaneos y varias sesiones de ondas de choque
+(probablemente insatisfactorias) para lograr una eliminacion completa de los calculos.
+Sin embargo, hoy dia, muchos hospitales cuentan con poca experiencia en cirugia
+abierta, por lo que podria ser conveniente derivar al paciente a un centro con
+experiencia en el uso de la pielocalicotomia ampliada (6), nefrolitotomia anatrofica
+(7-10), nefrotomia radial multiple (11, 12) o cirugia renal bajo hipotermia.
+Recientemente, se ha utilizado ecografia Doppler y en modo B intraoperatoria (13, 14)
+para identificar zonas avasculares en el parenquima renal cerca del calculo o calices
+dilatados. Esto permite la extraccion de calculos coraliformes grandes mediante varias
+nefrotomias radiales pequenas, sin perdida de la funcion renal.
+7.4.1 Indicaciones de la cirugia abierta y laparoscopica
+Las indicaciones de la cirugia abierta de calculos son:
+• carga litiasica compleja
+• fracaso del tratamiento con LEOC o NLP o de un procedimiento ureteroscopico
+• anomalias anatomicas intrarrenales, como estenosis infundibular, calculos en
+diverticulos caliciales (especialmente en un caliz anterior), obstruccion de la union
+ureteropelvica o estenosis
+• obesidad morbida
+• deformidad osea, contracturas y deformidades fijas de caderas y piernas
+• enfermedades concomitantes
+• cirugia abierta concomitante
+• polo inferior no funcionante (nefrectomia parcial)
+• rinon no funcionante (nefrectomia)
+34 ACTUALIZACION EN ABRIL DE 2010
+• eleccion del paciente tras el fracaso de intervenciones minimamente invasoras; es
+posible que el paciente prefiera una unica intervencion y evitar el riesgo de necesitar
+mas de un procedimiento de NLP
+• calculo en un rinon ectopico, en el que el acceso percutaneo y la LEOC pueden ser
+dificiles o imposibles
+• cistolitotomia por un calculo vesical gigante
+• carga litiasica elevada en ninos; la cirugia abierta proporcionara un acceso facil y
+solo requiere un procedimiento anestesico.
+7.4.2 Tecnicas quirurgicas
+Las tecnicas quirurgicas que pueden llevarse a cabo comprenden:
+• pielolitotomia simple y ampliada
+• pielonefrolitotomia
+• nefrolitotomia anatrofica
+• ureterolitotomia
+• nefrolitotomia radial
+• pieloplastia
+• nefrectomia parcial y nefrectomia
+• extraccion de calculos con recolocacion del ureter (es decir, ureteroneocistotomia).
+La superioridad de la cirugia abierta sobre el tratamiento menos invasor, en cuanto a
+tasas de ausencia de calculos, se basa en la experiencia historica, pero aun no se dispone
+de estudios comparativos (15, 16) (GCC: 4).
+Recomendacion
+GCC
+GR
+• La superioridad de la cirugia abierta sobre el tratamiento menos invasor, en cuanto a tasas de
+ausencia de calculos, se basa en la experiencia historica, pero aun no se dispone de estudios
+comparativos
+La cirugia abierta por calculos renales ha quedado parcialmente obsoleta, de modo que
+la cirugia laparoscopica esta sustituyendo cada vez mas a la abierta. La cirugia
+laparoscopica se utiliza para eliminar calculos renales y ureterales en situaciones tales
+como carga litiasica compleja, fracaso de una LEOC o procedimientos endourologicos
+previos, anomalias anatomicas u obesidad morbida. Se ha tratado con exito a pacientes
+con calculos ureterales impactados mediante ureterolitotomia laparoscopica, con menos
+35 ACTUALIZACION EN ABRIL DE 2010
+de un 2 % de conversiones a cirugia abierta. La ureterolitotomia laparoscopica puede
+realizarse con un acceso retroperitoneal o transperitoneal (17-22). La ureterolitotomia
+laparoscopica debe contemplarse cuando han fracasado otros procedimientos no
+invasores o poco invasores (23-39). La cirugia laparoscopica (videoendoscopica) puede
+ser util, sobre todo en los calculos localizados en un diverticulo calicial ventral (33).
+
